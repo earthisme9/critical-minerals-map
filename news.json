@@ -1,57 +1,676 @@
 {
-  "updatedAt": "2026-10-25T00:20:23.521683+00:00",
-  "lastSuccessAt": "2026-10-25T00:20:23.521683+00:00",
+  "updatedAt": "2026-10-26T00:23:43.247271+00:00",
+  "lastSuccessAt": "2026-10-26T00:23:43.247271+00:00",
   "status": {
     "cu": {
       "state": "ok",
       "count": 200,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "li": {
       "state": "ok",
       "count": 200,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "ni": {
       "state": "ok",
       "count": 200,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "mn": {
       "state": "ok",
-      "count": 155,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "count": 117,
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "co": {
       "state": "ok",
       "count": 162,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "graphite": {
       "state": "ok",
-      "count": 165,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "count": 164,
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "ree": {
       "state": "ok",
-      "count": 96,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "count": 102,
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     },
     "lree": {
       "state": "ok",
-      "count": 39,
-      "checkedAt": "2026-10-25T00:20:23.521683+00:00",
+      "count": 37,
+      "checkedAt": "2026-10-26T00:23:43.247271+00:00",
       "errors": []
     }
   },
   "articles": [
+    {
+      "title": "International Graphite's IG6 Advanced Materials rebrand reflects new strategy - ICYMI - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGt2QXAtb041TmFfTjh3Q0xwYlR6ajV5OVdFcFNURXdMSkROdnJkYjB3RmZYajNSVjI1ZGJvcUFreXJzdjBSeFdKRUZoUTdBRmFrVnpRZWF3SXJBbFJYUl9YTk5VSUplMnJMWmpMX09yS3B4TlJGMjVGOHpWZEw1STM4U1E2QmMwVnV1S2ZGTVR2MW9sZEJNUk00SmNiSWpIbFhrVDE0Yzg1UC1qWjJ4c1ZyU21xM2JCcHM2T0taUENyTllWbDZiTTVWMm9mVkYtN3EtbWtBMm5wNkZBNmpJT0lZWTdDYzQzTmc?oc=5",
+      "source": "Proactive financial news",
+      "pubDate": "2026-10-26T00:19:07+00:00",
+      "mineralIds": [
+        "graphite"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "리튬부터 ESS까지…LG엔솔, 북미 공급망 굳힌다 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTUFtU0I0SERvRGoyRnRfWGpRVG5IXzBGd1ktNXNwN1JvVXN4Y0V6US01ZENCTzNlZDNFZUNoSk1nT2lvNlJuNFo5MldCbkZjbDFHNWhhVVJGdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "pubDate": "2026-10-26T00:16:45+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "배터리 주가가 궁금해? 리튬값을 찾아봐 - 네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3TXZhc011UmFPTTRySzVDdmhXRWFibkljanF3RHhxMGNBY3IzTjFkeDZnNjY1cHI1ZUk1djlaR0VQQTNrdVZEM3NzX3FTS25kUHc?oc=5",
+      "source": "네이버페이 머니스토리",
+      "pubDate": "2026-10-25T23:38:07+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Lithium ion battery starts field fire in Redfield - KELOLAND.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFhjdDB4RWxIU0U0dUVRZXVwY3psd2hCNWVCN1c0bUIwdWlQVE9oQmRYdGFWejFUVWpLcTdYSFRBQ0QwRFpEWHpYM21JRFZJWTZob0xpem96azc3VTduR09PbkszSkUzLXVNYjdQajlYcUhjeE9NZzFrSTZFZGEyMEdmZVpmeFZRdURUUEItaGg4anNUb1HSAZsBQVVfeXFMTnRyWWVLcldjdlpGTGFXR3JlSWxzLUhCUWxIalJ4UDUzX3pIUWN4RzRXTXBLZ0lleHVZUmpLa0RENGp2YlFzdWhpTDlEQXg4SDllVTVyTmc2RGRmaW03Q3Z2QnYtVjRKMDEtWXRKZVVQMHhzMFlEQTM4WkZ3TmdMUjlZSU1ST0R3NXNPNVIzeUlVN2NGNnhJVHlEdGM?oc=5",
+      "source": "KELOLAND.com",
+      "pubDate": "2026-10-25T23:23:37+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Red Metal Reports 65% Neodymium Extraction from Sybella Fresh Granite Column Leach Test - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHpaQ0ZZbGxmUTl6S1RIcnMwSzBELUp0WjdTajJreUFZdkkzU1JEMy0zZTF4T0p2aU11ak80Z19KSGxYUXBqWV9XbnpqNHhlNy0xODJjYm9hemFKQzFXM3lRcVd6TnNUWmJXSDA0cUZlRVpBOGJ4eWRjNElrVWdCUkZzYkZuSWVKWWtsQUFvNUozb1RjZ1dZOTNGNmF5WElZMVNyVlBiaEl6SWRZbGR0OFFoUXJiY2NUcmhaN0FGTi1fUThFVkVz?oc=5",
+      "source": "Kalkine",
+      "pubDate": "2026-10-25T23:15:04+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "[구리 가격] LME 재고 증가세 둔화에 반등…27만3,750톤 기록 - 산업일보",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBVUEJJOXB5OFd3eDl0ZmVJVS1jUEVwUHZxYUZKMDlNTFdXRkNuVGdQU1A1STRKNy1UNndaNlJpV0x5VnBH?oc=5",
+      "source": "산업일보",
+      "pubDate": "2026-10-25T22:01:10+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "The Next American Lithium Chapter? ELEKTROS Pursues Due Diligence Near the Canadian Border - The Batesville Daily Guard",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVDRJTkxpczdjRDFyMlg5OE5IalBaQ1QzMlpmdWJ3TlZLTVFFZGtWclNsNGhLNlJXX0tIcVBoQ2xBY0hwZDJQVWk1TW1tWk1ONUhhdVotRFRkSUU1RHZGcDBjay1jUWduQUNGcXphRDM3MEVkbXZzYkhma1RjZ2RESnRNX1JVbkNhZEZhTmkwWHdsS0szOGlOaTQ4VElBYmt3b2RMM0hwclJJZ2JNVmVBUGtmc2laUy15cy1FUXltZFh2c1BGLUctelNKOHlQZE92dmJRY3duY3h2b1pCNWZVMWw5cXZrTlVEZXF1OFd6X3dWaXJZSHI5VVVISnB0SWFneFdRb2U1R1Z4ZVdIUFE?oc=5",
+      "source": "The Batesville Daily Guard",
+      "pubDate": "2026-10-25T21:56:30+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "The Next American Lithium Chapter? ELEKTROS Pursues Due Diligence Near the Canadian Border - Voice of Alexandria",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYmpnWWFCd0FFbms1a1FhM2JqWmY5Z1lBSFp4MFBkY3g4c21seWotTHdya0p3N09ES1ZVNFRUeE9BLWVZbVlkSEpWMy1sSEdFaVBKZDNtVVJzazNUMGp2YXdNV1NjMUJnRUFyVWxGNUlzaDRqUGtsYlo0Z1RncFNJM3k1d05ldXpxS0VYZmJIY3lXNWpvNzM5dHFJd1FoRXZDVzcxOVBSVzNnWFBBaWhtc3Z3RlVpNUpCc3FXUnB6bXl3RmVOWFBMYVNGUTJkZDVzamhUc21VaEJMQy14NW43a1hSd3NmUl85YTFUY2pnU0doVnBUMUotY3lpdXUyaElWMUVodGtZZDZzU0Q1aXZ3aV9tdDVmREYzOVRwdGJQZVNvVncxc1lPNA?oc=5",
+      "source": "Voice of Alexandria",
+      "pubDate": "2026-10-25T21:56:30+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "The Next American Lithium Chapter? ELEKTROS Pursues Due Diligence Near the Canadian Border - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYmhHQlRScjY3SHZlNGdoRnZmVU9qOEo5aWY2akFuY19lU2t1Yk1ETGxKdF9VdTN5UmJJS3JvSTBQZFZBRERma3JUZGZNU0JnNmZxUGNfRm5JTHJVa01LcDlEcnVwVGJxUF9YYXZCSWZhS0ZzdU1GZktRMncwSzZrSFRFb1ZTeGNsQm5WdUtOeU9uZTJ6TndtTFVxUE9SMVBMZE5HUUxIUnZCcGRDQmZPcm9RaHNJdUx3Z0w3R0g3U0hldjZhZ0pUbjg1eDA1SXljMU94bjQ3ZU0tdDk4LTZzVUlndw?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-25T21:55:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Mason Nickel Game Log - College Football - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdmF4NV82VnNGdmFDdHdsYm54YnoxUVp4dFFOVG5FcXVHUEtIWnJUeHJqMW1IcEdDQ1VPdTNuM3kyVll5UkV3Y3l2YzdIR0FrMUVMdXpiZHF1UC1zYVU5RUFUNDdMcnRsWGRiZ0g3SW5fNURXSE1XWmNEeE5Ib0hib21CMGpwUVBmS3pR?oc=5",
+      "source": "FOX Sports",
+      "pubDate": "2026-10-25T21:47:58+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Mason Nickel Game Log - College Football - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmJvc25Ed2ExaVdOSHJjVXJTQUhYa2FVbktnRDJ2MFhmRy1ZeXktRG9SekJMSDQzRWR5OGQtU1B4RHFIc051bDB6TWNxXzBJNFdBRDZFSGZaNjR4U0ZnWnpEeThzckZuVmJSLUJwaHBWSHJxR3JBcEdCbTdLM2djc1RlcHBLQVJ3RU9YQlByZWRLZzY4b0hyeDRfTlNPbk5UZGxZ?oc=5",
+      "source": "FOX Sports",
+      "pubDate": "2026-10-25T21:47:49+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Can You Use A Generic 18650 Battery On A Ryobi USB Lithium Tool? - SlashGear",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWDZBZ2l0VjNfVHZfcEUwZjhUVGtPN2ZtcEx3T3hIbG5kbXBMbGduRDB0UFIzQ2l6LXlzcVdnYlMySVNPYTM1c3dXNnJ5QXh3QTRsVzhuaVloNE1zY0VWUHVrMzZOTzBYa1c2VzlyYmZaOGpJUkVPNDVQYlpmY0RwX3BkNVBSU2xRdmROazRCXzV3SkxrNlN5eWFR?oc=5",
+      "source": "SlashGear",
+      "pubDate": "2026-10-25T21:45:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "Battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "October Spotlight on ELEK: A Potential U.S. Lithium Play Meets the EV Revolution - Voice of Alexandria",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQ1c1dmFGVGRfVUVyM0VjZzlxdjBWZUdWa0hTVEd6SFBtdF9DVnRRcU45bHY0ZlhUTi1wOG81eDRYemc1VUJUazNubjBIbWtkZkJvMnk0anh6Mi1idll1NHcxR2RQamp6Y0ZpcmF5Q0JFOEJPcVp4NUhic0R5UzYyVzRVWTJPX2NmUHhwVEFWSUNRVWp6X1JtZ1VMUXRjNHNKczhKZ0tadzY4ZkpHSnZQbUIzSnVYZWF6S2xXcEdpYlF2eHFNazlIQjNGcVEwTVhCanNld3dlZExnNW83ekpkY1NBREV6bkFUdnNUMjNpOHIzQWo3VHBnTl9oSkJYd0ZzS1BNRzh6bmFubzJ3RFRhMEZOckR1Ujl2SEE?oc=5",
+      "source": "Voice of Alexandria",
+      "pubDate": "2026-10-25T21:31:39+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "October Spotlight on ELEK: A Potential U.S. Lithium Play Meets the EV Revolution - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFk4TXdGd2RlN2ZOdjY1SzNRcms4NnhvMXBSaDVmRXlmdFlOV29jY2JsaFNhV1lfSGliRjBuZERtMTlSWGN3SnlUTHo1Q3RoeGtqYjVzS1dELWNYR09HemVycVFPRkczbDJjYWxRVEhiRUNnWkludE82RGpNYzlUYWJKNzFVRmRLTzU2MnZneDJWMGtnZzRZUElELTkxS1licHE3c1V0aGFwcWVSQUR3eWRrOUlTQ1ZzN2RZOUpBZVZselJ2T0szbENSWWpzcXA5UnhpVA?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-25T21:30:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "中 STS 가격, 니켈 반등에도 약세…수요 부진에 발목 - 스틸데일리",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EdjRLVklDS2pWdGkxdERRNHUxbTJ6bkt2S0NWd2Vvc0stbUVzV2JQN0FwcTRnTzhFVkdKUlotRy1acktnQ2pJc2hfaXltR0RYM3A5REpySHhpMDBBandWd0ZkbU1fbjlPTTM0djR2M0RCUURF0gF0QVVfeXFMTUR2NEtWSUNLalZ0aTF0RFE0dTFtMnpuS3ZLQ1Z3ZW9zSy1tRXNXYlA3QXBxNGdPOEVWR0pSWi1HLVpyS2dDaklzaF9peW1HRFgzcDlESnJIeGkwMEFqd1Z3RmRtTV9uOU9NMzR2NHYzREJRREU?oc=5",
+      "source": "스틸데일리",
+      "pubDate": "2026-10-25T21:11:03+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "America First in Lithium Logistics: Elektros Eyes a New York Resource Opportunity - Watauga Democrat",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYkRwYUM1WnpQU0RwM2otcGJ2ay1wQlRmVl8xbnVhY3d1aXpXb1JiYW5udk9ZUXYtNGhHY0xIc0FGNDFVa1NwSVpYUU9OSVczSE9zV2JRM0txSFc1QjJxYU53R1l1QlVoSXNKT0lSUHRoRVFlNFpZV1IzODEtcTFlV3FZMjNIMDNJM29qVVZja1NVTHhlQ2VNMTd1UTNZTzBocHU4aHZ1Z0RMNEZFYVp6bDJ2Z191Q2pyZzAxay1PNzA1TkF4N1JGcW45Y0tQODcyazBiTFpkTTAzSHk1RGVGbXhvTE5jUWdtNGpabkloN19FVzVGVlBhLVZNdE4tVGpM?oc=5",
+      "source": "Watauga Democrat",
+      "pubDate": "2026-10-25T20:31:29+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "America First in Lithium Logistics: Elektros Eyes a New York Resource Opportunity - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmk2N0lhX0RUYmVORHV0RGtzLVVNc1ZBazFCSVQ0ZjM0aG9wYWJ2azJkUTRSbXpDYlppTU94ZzNKNWNTSFZOU1EwSjF1MWxpMk9GUzVJbE85VlhBdGxGeFpNSDdWVG5BYkthMm5YMnJrQ2VwOW9RX0t0bFBfWGVka0JEV3BtTnhEeU5Gb181ZjgxTHdWQzJMUlRkUFNKYnBKSGxtNjZaRUFNSXdZZmYwREdqNktFOTY4bzNuS05BWENwUldtdzVBVmpZcVZ2VDBOTjhFSFJLcw?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-25T20:30:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "인니 니켈 감산 논의, NPI로 확대…STS 원료 공급도 조정하나? - 스틸데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dWlQWjVXeGpxYVVYOHVia0NENlBqT284T2NzZG1LX21mWERBTFBKX1ZSd3A1R2dWdENTMUt5LXpaLWtnWG5YRldxTlVZWm8wVzd4RnZUTTdJYkxoZkZTY0o3X240VG9iOEVBNFV4V1XSAXRBVV95cUxNSzdLRFFIaWdSb2lSTERCd2hCTXVFcUdjTW1KSk5qZWcwYmh3VkhBVnMzQm84cjhGUHQ0YWNwUFpPVFZrbFZDUk5ocjRsWjlZVy03b1ZaTmQxZjh5cHpEOGtqcF9kelB4eG5PU1lnT3NHd1p1ag?oc=5",
+      "source": "스틸데일리",
+      "pubDate": "2026-10-25T20:00:00+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "drawing.pox (@drawingpox): \"Spike Milliken Graphite on Bristol 8.5 x 11 inches\" - Substack",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZGhtMVRJSjZhWHptMWZfMUh4WVZQSFBTTHV1OEdiQ2ZjY0owbXBMT0FWWjhVeEFzRkJwRXdvZFloNjc0b1djZnVxdkdRbWxiWS1QUEtnZDNwUF81Z2c?oc=5",
+      "source": "Substack",
+      "pubDate": "2026-10-25T16:19:58+00:00",
+      "mineralIds": [
+        "graphite"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "5 Ryobi USB Lithium Combo Kits Cheaper Than Their Individual Price Tags - SlashGear",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3RLN2JwNFQtNk9kNlFzRzMxaG5HZXk2S3JVZnc1di05TDM5em5aN3JoRE5VZmc5S3R6QkNxT1VsN01aLUhSNHBrSEtCcmxQTkhGdmRRdEdYVTgxSDFtWXJiVUdFZF9yMVFQY0dMQjVXOU5fMlV6QzA4b0tzR1VqbkQ4UmJPMnhjZkRUeGRfYmdVV1c1MzlNTV9uZVBfVUE?oc=5",
+      "source": "SlashGear",
+      "pubDate": "2026-10-25T16:15:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "하이드로리튬, 1000원 미달 지속에 상장폐지 우려 - 제주교통복지신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13cHBTZnVRSjEzYThmZTh1UkZ5UDZQUnE1bGhyejZNN3EwYkpuUzlpUDlwc2JQU0tUMUdoVmZOSVJNMzUySUxMOGNhcUJ0OEFPY3BjM3RjODZzU0JZS203cg?oc=5",
+      "source": "제주교통복지신문",
+      "pubDate": "2026-10-25T15:05:33+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Sandur Manganese & Iron Ores Ltd Estimates – NSE:SANDUMA - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jQVpzUHl6b1h3NGdBNjFZYzhRZy1UTFdncm9GZGhFSV9DaDNBa1NnOU9vMkloZ3F3cnpCOFFLcVdPZnVieGNYMzF4UXVUMzdSeWxHbGRtN0xfRUo3UVVhLWZTNmdfVHZvWlVWalpzTzY4YmhSLWxKQQ?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-25T14:41:26+00:00",
+      "mineralIds": [
+        "mn"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Lithium Battery Fires Are Showing Up in National Parks. Here Is What the NPS Wants Visitors to Do. - Active NorCal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV240WUFVNDFXc1BjWFRieWdMRUQ1bUJIREpCQ2NiQXYtQ2MtRENKd2gwZUJaUVFWLXd6dFRZTjBGc095TEVVN01ZZS1XVGNrQUl0c3h1QzhHbUEzVDVlQ2RzMzJ4aG5MTUtDNnE4YnZmTFBTVldFODRRbW5PZ0ZUek1nYVJQRExRc2JKeU52a1pSbXFSNjF4YlU5cjBWNlFrRXBmUEM5MlBmYzZuX1BGMzkwd0Z3NDEtaERuSlQ5dVdyS2tF?oc=5",
+      "source": "Active NorCal",
+      "pubDate": "2026-10-25T12:41:05+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "Battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "경기도구리남양주교육지원청, ‘학교폭력사안 조사 전문성 높인다’ - 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tNDFjODVkbElPMzdwclhrTVNGU1M2cF9FVjRtY2lIX3lwTWRjRVQ4M2x4dFlYY3ZiTlI5MXJPbTh3dmFRY1FSbnF4UlpuTlJqWVB6XzZyUEVoNEVCOW1RTTFObk0yeDNqYnFj?oc=5",
+      "source": "일간투데이",
+      "pubDate": "2026-10-25T12:36:00+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Cobalt blue makes a bold return to brighten up drizzly autumn days - and M&S’s £50 satin dress nails the trend - Good Housekeeping",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGRGYk1XVnBpQzJtTUhJdWliQjZiVGFJal9NUWZablBIVXJpZGVOdGVkdmJnTmNWRjMzbjV6UTJVb0ZwOUNSOWM4d2FVejRnYW9lRHdNcFJ1RVVXdDZSQk5Hc0x1R1ZTVHdtY2pHZV9uelJRQWxjZThTSUpVVEtwNjNQRmNwX3hVSkRkRGtwUGVTNV9uUFM4NVNqU1RGMGo1?oc=5",
+      "source": "Good Housekeeping",
+      "pubDate": "2026-10-25T10:12:15+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Nickel Creek Platinum Corp. Estimates – DUS:P94 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KbTBNRUVQRklOS0Ziajd1aVlieUEyWG9IbXBya09ZTDI1cDRIRHhZcGZQd1lkVmdReHNBdThlSkR6aUxMcWhkQzZPVFI1NjNGRWVvaVFQajRRZ2NpM3hQSHpwUmZZWHBENmxpNGhHNVVOMkk?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-25T10:09:29+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "East Manatee deputy fire marshal receives lithium-ion battery training - Your Observer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcS05R1kxTE8xMVkzSWIxazF0YzB1ZVRPZU5wcjdtdWVDRlNLcnhuczczdzZzWXdEbWlIWm1XZ1ZVd2xiWGcxQm9QdFRtT0JYUnYyUFdiZ054eklqTlZuMlQ4aVhWcTVWSUVySTVaR29ncXZHdk15enBXVkcwbUc2RmhVMXRyZlhJRVJNa2FoQUotOWNWc0c0TFlrRU85M1U5SGlEeWVWV1NXbjdkWUdhdmNmdkMwZw?oc=5",
+      "source": "Your Observer",
+      "pubDate": "2026-10-25T09:00:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "GM, 피크 에너지와 비리튬 나트륨 이온 배터리 개발 - IDNFinancials",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbnFRb0xJd25QS3dQWHZyMWk2b3F3UnU3TmZTSWNDb0pjUFVKZDhGNmk0U09xODJod1hWUGpqOTR0SmEtTnBubXhJa1owMDBsbDZMNWFtVVF4S1ZLT2lNcGpLWlRWRk1KUFk1cWxmc3ZWYlVfU2gxTHBhd0MtR3dwYXJJdGF6eUVzRzAxVXpzWldZUHNDZ0lQanZvOEh2RVJmdEUzNDZjMndEZzBxemVYbjJuSXJOS0hxZElsc1QzZFJIM0pTUGZUSFBCNWtuVzVOdzlEZHRxWmlzTUlRY1BwMXJCOXg1dzFuSGdlVHpHV3hsc2phWnhqZGxKNzRHVkhJVDhOcmlzT2R0Vk9Cc3FtTmpXRnIzdFU0WFQwVnNJX2xkeXBGMURfc1ctdmhaTS1tNVJlMDA5TUc4WXVFbldmTXZZLUJQVU0?oc=5",
+      "source": "IDNFinancials",
+      "pubDate": "2026-10-25T09:00:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "구리경찰서, 보이스피싱 범죄 피해예방활동 강화 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yRG15R2VlSlhJeWpPZ1dHdG9wOE1NQTFWbG5BVk1XTEwzUm9zX0lFY0tOSHdNVWh6cVlYVGpxQjFjQWkwdENWeXIyMWpKdDhwd21Od2hIbC1LQkdCWTlCVnpZOHdBdW1PM04xeldKbjVGWjA4M0NhatIBeEFVX3lxTE9yRG15R2VlSlhJeWpPZ1dHdG9wOE1NQTFWbG5BVk1XTEwzUm9zX0lFY0tOSHdNVWh6cVlYVGpxQjFjQWkwdENWeXIyMWpKdDhwd21Od2hIbC1LQkdCWTlCVnpZOHdBdW1PM04xeldKbjVGWjA4M0Nhag?oc=5",
+      "source": "뉴시스",
+      "pubDate": "2026-10-25T08:25:54+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "권봉수 구리농수산물공사 제13대 사장 취임… “현장 중심 상생경영으로 도약 이끌 것” - 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lZ0JITmFtZVpnYVItb092WXhKZlkzbjNwczIzX3BkVGxpOHBZSkZTVVMydlBqb0FHT2luSFRoV3RsV1VVQzV1dWJHTzZDd3JIUWlKSTAyVXE5UHRCQnRlZjh3?oc=5",
+      "source": "경기신문",
+      "pubDate": "2026-10-25T08:23:36+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "구리남양주교육지원청, 학교폭력전담조사관 46명 역량 강화 연수 - 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sVDhhWjJRQVBHQWVVa094d3E1ZjVUejRIMjNTeVJyc2c3c0dFck5UM0JXVFYzVmtld2MwSGd1QU03OVJEemtNamJ0UVB6VUVBUk9KeVRKSWtBTS1WRjFMN1V3?oc=5",
+      "source": "경기신문",
+      "pubDate": "2026-10-25T08:17:13+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "구리경찰서, AI 기술과 지역 네트워크 활용, ‘보이스피싱 예방망’ 구축 - 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qSzB5cm10X2dTZFJ3Mm1BWWRORUhVSnVYeTlVWHRES2xmQjRPa0VSTUVqbnloZkxuUkp1ald6ZDNYMUN5eFVHV0JmOExHSWd6RHBwemM4b1RTU0RIZVNKTnR3?oc=5",
+      "source": "경기신문",
+      "pubDate": "2026-10-25T08:11:49+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "비싼 중희토류 없이 고성능 자석…재료연, 전기차·로봇 핵심소재 자립 길 열었다 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OZm1wSE9YQ1p2OGYzcjU2dkwxdVpVRWFzNGlqX1BzcU5qSk1fUk9mdUxoUU5GOE14aGZFYUQ0dDJacVdxOEsxSERndjZCS2xwN1ZMUjJycl91aF9KRlBJcUFR?oc=5",
+      "source": "매일신문",
+      "pubDate": "2026-10-25T07:33:58+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [
+        {
+          "label": "EV·모터",
+          "evidence": "전기차"
+        }
+      ],
+      "stages": [
+        {
+          "label": "부품",
+          "evidence": "자석"
+        },
+        {
+          "label": "최종 수요",
+          "evidence": "전기차"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "재료연, 중희토류 없는 고성능 영구자석 제조기술 개발 - 경남신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zN2VLZk1NcXE4NkszMk9wY0hHUVI1RkhkSjZQYjVLUkVaTVBQdERoQUV1TDcyS2dtZ0d5U2tfOEpKNi04SmhkQW1mQnB1c0ZtNUtWckZhMW9fY1RMeEVudHZhSWJDaXVxS2k4?oc=5",
+      "source": "경남신문",
+      "pubDate": "2026-10-25T06:30:34+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "부품",
+          "evidence": "자석"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "구리 12개 골목상권 축제 릴레이…‘와구리 페스타’ 11월까지 이어진다 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMWx4MWJndUx2eXpCSTg0MHduamVlbUN2SnpzZWxqWjlxME9PM1F4YkNtWmRHeXhZSWh5YmYzU1J4bl9ONUZnTUFBNlQzYXd6bG9DQ2xNR2cyUQ?oc=5",
+      "source": "브릿지경제",
+      "pubDate": "2026-10-25T06:14:00+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "구리경찰서 재향경우회·자문위원회, 안보 현장 순례·합동 워크숍 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LdlNubG1NLUVCOTFYdlZMUGF5Z3NvYkIwVFZfNWE4VmJEMGJOTkswRUoyemJvSlNlMHRuREpfbHREZ3BtUGQ1VjZQWVUwc2VhVERZbDJjWFJCYm1Sa0N3WWZwcm4?oc=5",
+      "source": "매일일보",
+      "pubDate": "2026-10-25T06:06:03+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Sabrina Carpenter stuns in cobalt blue at the academy museum gala - - Cosmopolitan India",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFRDQjh4S0xJbFNZZk9jWnRxWkRkaHhSWDNHYlhyam01R3dVZmhxeEcySDhZZkRKM0RTYk5lS1NTajgweGxpYzd4QkpMSkZLN0ctTEJEb0hUZXJfdjJyeDBmdk5ORG5aTWlfeDRTSUg1QnhJb091MGh0aGM4Z2FvNi1UUXhHUENZUmYtRzJuamVuYVVJZVhQaFIyQTR1QUZNSVByNS1vcEt6Z3cwM2JLOUNFdXpZM0dwbnhlVHFSUThocXo4aG5LRm9iNkJjakh40gHWAUFVX3lxTE9iSWRNN3VPVGxLUkZaaHh5RGZSWjc0U21teDE4QUJ6cTZpMzRlYnJsQk5tTEYxazAycTVmQTJmdGlSOHFBUWRxYjh6UWFtdXlrek1YelN4YUU0RERfaGpfUWtyUDVWeUJFSS1vNHVrZHI5cU9uSWpoM3NWdng5ejJJa0ZHNWRKUjZLQktwUWZjM25EUjJMbTJqTHZkbDFycTVQbF9adFJRTVVuSktQX2hOYmNJM0N1dXU3WGpJNERCdTkxVUF6dGZDOVViNjBUeEhVTURtUGc?oc=5",
+      "source": "Cosmopolitan India",
+      "pubDate": "2026-10-25T05:35:51+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Sodium-ion batteries are finally reaching EVs and home storage — no lithium, no cobalt - The Cool Down",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVdYX3VmUlJHdTd2a1dsUzVsUTZBWndLVHVIbzRWUHdPMk1VcnBkS2J1aXJFR1NlLVB1SVBCOHBlc1ctd0JiZ01paTh0UDNXWEZHVzhlbGtFRlZVbWcwOGN2ZGNKMjhVM29ORnUzcXpadHBiT2ZBVFlNOE85WmRWTVJmSQ?oc=5",
+      "source": "The Cool Down",
+      "pubDate": "2026-10-25T05:25:00+00:00",
+      "mineralIds": [
+        "co",
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "batteries"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "When World Series is over, this Brewers team must be dissected | Lori Nickel - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUNIVVo3NDc1TnVaak9sMkRaeDExZWRkVTRnT2JiYWFGOTBPY1lsMnJBTFNpMllYU0lFM2x3MmtCc2RSbkE5VHlEejRBNFoxNGhlSWhGR3k4bkltV0xqbE5VZUJETy1NY1NBOE5QUzJBM1RyTHNCNFY2bnpPajU2RzAxNkdtQW44UGxVVVhBZDM0R2tJb0RiaTVBN3ozMnNDT3dMRnJMX3hJWUpCRG1aQndOLXB1UUMxRXB1NXpRNFplUDBEcEdfSWZRMnVyc1pCNGxfZEJhcDdSaDA?oc=5",
+      "source": "Milwaukee Journal Sentinel",
+      "pubDate": "2026-10-25T04:47:14+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "리튬 배터리 지게차 기업 '리튬코리아' 2026년 메인비즈 인증 - 미디어스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nV2p3UjlYMHJYVTl0Z0I1R0t3UHVMVFBQR0xKMng1LWtVZHFyUHJzRVVjTFl1OVQtZng4UnVoMFF3T3dvVEVvZ3Z5c0lMNUdfVHJNbmctbXp6SkwxaVlCaVZrVkFJczREeVd4d3NKSTXSAXBBVV95cUxNZ1dqd1I5WDByWFU5dGdCNUdLd1B1TFRQUEdMSjJ4NS1rVWRxclByc0VVY0xZdTlULWZ4OFJ1aDBRd093b1RFb2d2eXNJTDVHX1RyTW5nLW16ekpMMWlZQmlWa1ZBSXM0RHlXeHdzSkk1?oc=5",
+      "source": "미디어스",
+      "pubDate": "2026-10-25T01:36:12+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "[기자수첩]‘지하의 안전’을 묻어둔 채 구리의 미래를 열 수는 없다 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sNEZHRXNwbDJNQWZPc1hPVjZyd1UxeWh0RHFzOVlYNm12b19fd0QwQWdrMVhxeEdqWk9BRHVVdzJDM3J0dXJ5Z0tKZGtEdzkwOGhuSFAxeXRJZUV0UENpYXhaNVJ0MUlhV1V0U1NuSVk?oc=5",
+      "source": "신아일보",
+      "pubDate": "2026-10-25T00:43:03+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "From Record-High Market Excitement to American Lithium Ambition: Elektros Looks North - The Batesville Daily Guard",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUUxQ1pBQVF4RC1tN3E1S25QQnowUlN4aHg1cDNiVUhVNkNjNEJwRy1pTHlTVTRsN21tNW02Y1Y3M1J2VWpZbjlranpsNzFUVzVLbTV5YUR1U3BmTzdsMlVTaFYxbVZ6VHVSNWx1RmpEelBsZmJfa00xMWdxSVdBZ0FSWHVKMDkwR0hUcV9OSmJYWWpjcUg5Wjc5V0xUVnVaUUt5SnRkMHRpV1hxTWNQbWtXTTdUaU9udW8xNmFqeFRBelpXRjFfMXk3eUVNTExqc2MydXlWSTBnOFNfVld4Q25COTY5UlZpREJZS1BnNEFCNGpfVmo3WWhKc1RVUDhvbDRQRGxwQQ?oc=5",
+      "source": "The Batesville Daily Guard",
+      "pubDate": "2026-10-25T00:01:11+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "From Record-High Market Excitement to American Lithium Ambition: Elektros Looks North - Voice of Alexandria",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNaVNLMUZzcGFMcGpIeWc2bUlYU2h3UkxQT0pmM2l1Y19kc3d5SlNqWVVzUGFwMG5LSUVwWUNyanV2elNJdGlyX3FZUF9SU0xJcWlPZ3pBMkZkcXZrdUZ5UGkwVncyTG9jY29qTmh3bGNueDBESjJwOFJFdU80MlBvcWdOcjZwd2JZcEE0cUlrMlVBV2tqb2FRRWRJUDltaU5odjFXT0VIQXhDZkxhMzNJcXVsOWpiaDJITXQtTjdmc0t5WkVtZ2FsLUVHNnBpOTYycnNpaFpHN0lTdXlzaDJzeXE2MXd2NU1TR0VJVW1YNzBUcWZIQWI4Ri0zMzZxOTFIV0U1NjM0ZjhMczNkLWRUblpGeThnVHdmV2FWNHU5WVFPQQ?oc=5",
+      "source": "Voice of Alexandria",
+      "pubDate": "2026-10-25T00:01:11+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
     {
       "title": "중동발 원유 흔들리자 AI가 구리 삼켰다…글로벌 자원 전쟁에 한국 전선망 촉각 - 글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNampMZERlZnFBNGZJN0RmckRsRmRIOEFQQnVxakVGcUx2RmFXV3lNeXFhTGhkZFlhSnFlYlJ2SEZrS3JFZkUtZUNZOGNzT3ZteUNFblZsekp1aWRtbjNycHQ1U1dQZy1vbzdTdlI1aWZCVkl6ZlFDTzhmSHUtRXBwSUxfVXVScG5i?oc=5",
@@ -82,6 +701,32 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "South Manganese Investment Limited Estimates – HKEX:1091 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SZVR1V1ptT2dza3JSSzNXR1hFRjIxT2pCVnVWbnNDWkIyNmUwcmEyUm9zM05nZ282a19lS1Y1dWFJNVpyNjNWSUhrZmtUTnpFMFpTMzY1SGg5d212VTlvYVZZay1QT3Z0VDZoZkZ3OHZ0VmVhaEE?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-24T23:27:43+00:00",
+      "mineralIds": [
+        "mn"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "포스코홀딩스, 佛 생고뱅과 리튬 추출 신소재 공동 개발 '맞손' - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BTDV5czRBNmtwLVV2d0JtUWxVeEdGSW45Vk5mTkxwRVRXQzZValFNR013OUVXYW9Iam5reWVfTW03TnNncTVxc2NDVlpzRTE5azRYZHZncWt3RW1zSmJZNWFkOA?oc=5",
+      "source": "더구루",
+      "pubDate": "2026-10-24T22:47:22+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "LOUIS vuitton porte-Documents jour Damier Graphite - khorasantimes.com",
@@ -199,6 +844,37 @@
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
     },
     {
+      "title": "Automated License Plate Reader leads to 2 arrests in I.E. copper theft investigation - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1U2dEYtWVhBYXM2amh5ZEJ5ZWhfU2FvcGN5X19kNUJxY3ZyUGNYdWQ1TVc1QzBxeFRvWUkycEFiOUlYc0NSbnZPdGlLVkFRUUtPUWlweXpVdXRkanpoRWk0cEF1ekJxVkkzYUVQQ2UyOG9yQTFzeE9yNWJpMmlZcTZkTXIzWlFUY0hQY3lwY2VKd055UEZlZEo5M2FDZ2tIUTZSQzR1QnQ3cWNLekstMUJjemFWQUZ0RkFEMdIBwgFBVV95cUxPMHdDdElHTlMzbVZkMjhpUkpFd2RfZWpVLVFmSXo0SkRTWTBGTXpSeXE5aFBqa0dvSzY5N1JvR21EQ1ZrTy01ZmlHSkwza29UZDA1bnpRVzV6ckx1Ukk2ejhnNWcwWm5FcU5hVTFuZ09vanA4aXZXS21VRFc2a29RVjJNM1BVaEt1TE9WNmxqLW4zT0RXLTlxUzZPbUk5S0lOYzVKUUozRUsyOUM5RlhtSEdXQktlc1puZER6dE91M2ZNQQ?oc=5",
+      "source": "KTLA",
+      "pubDate": "2026-10-24T20:12:11+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "\"리튬이온 '열 폭주' 막는다\"…배터리 안전성 핵심 연구 공개 | - 하이테크정보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yc2pMQ0dMYXdndVhpLVkxUk1KaEFjLVFtODVoeFJoUVMyQUZCRzZ6WERYTlA0OXl3UE9IdkZiaWE4RFVuVzhsa2xQU0F4eDVUWm9MNnlQdXpJOVVqN2RYcl9DcEpFUWVKUldYZQ?oc=5",
+      "source": "하이테크정보",
+      "pubDate": "2026-10-24T19:23:20+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Live or Dead Animal at 2421 Nickel Ave - Lost Coast Outpost",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxaW1yVl9QaXNEQkVLVl9CWjQ0QTNvbzVNMG5sUkRZQlVENzB1WmR4QVI3bVlVNkhrTFdldHBVaTNGa0ZHa05qLU5VWmV6WWRwMWFKZ1NBRmNYVmg5Z0hmRTNQdXV1T0FaV0lQQmIxaDI?oc=5",
       "source": "Lost Coast Outpost",
@@ -230,6 +906,24 @@
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
     },
     {
+      "title": "GM, '리튬 없는 배터리' 투자 확대…LG도 가세 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1adU1qRlRqbTNCNzRoczAxSG54LWtmeTVYYzNwZ29NWWZtTTJGQ3RCd292LTlHMFU0NDZwNklTM1lrc0ZrV2JCcEEyOEI5a2VrejFLSHcyYWV0a3hVa09lOTJ6MnRMMXdRUEVxZXBpY3FObWc?oc=5",
+      "source": "글로벌이코노믹",
+      "pubDate": "2026-10-24T19:00:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Graphite One Inc. Warrant 2025-08.08.2026 on Graphite One Estimates – NEO:GPH.WT - TradingView",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kaGVYSVpkY1NqT2J6ekVaUE1aUlFHNS1RYmgySUZCNkMtcEJMVTJYcFdVN3BKWlFMYlhRbEZQTWJYRnpwUUtQSE5vM0NPYU0yOFYyZ0VVWGhQcWFtM1ItcUFBdDNnWUI2QWpkNFU5aVhQTTM4YVpz?oc=5",
       "source": "TradingView",
@@ -241,6 +935,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "Rare Earth Researchers Advance Cleaner Recovery Methods in Brazil - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHNkhYSXQyNHBvT1lmanlCYkxmUFlNc1JxaVVrMUk5dTdMQzdJTGtRN2E3dF9raEhkVXExQTg4c2lsN0Fmc1R4dmt1UTM2QmVoS0ctZkl2bkJUYXBoYmZULQ?oc=5",
+      "source": "SuaraGarut.ID",
+      "pubDate": "2026-10-24T18:24:00+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Skip the Bin. Turn Your Batteries In. - Greensboro-NC.gov",
@@ -303,6 +1010,19 @@
       ],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "Sprott Nickel Miners Tokenized ETF (Ondo) USD (NIKLON-USD) Cryptocurrency Profile & Facts - Yahoo Finance - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aMFhCYU8tR0JoTk1qMWhLUDR4ekM2dUVuanJ2Y01LVWpQc3lUSUlMZjVTaHRsY21KUjdVNmt5Q2lUcTdsSXVlY3VLWkhmNWZhYUNZaEtBbHpFSVVGSDZIUFlhT0k?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "pubDate": "2026-10-24T15:39:49+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "China Graphite Group Ltd. Estimates – HKEX:2237 - TradingView",
@@ -375,6 +1095,19 @@
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
     },
     {
+      "title": "일부 중국 대기업, 모로왈리 니켈 생산 50% 감축 준비 - IDNFinancials",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPLVBqLXNQVGVMTUVUWWw0bzJjczFIZ3p0SjFnc0FrNUl2REFjelUwV2c4UEtGQlZnNWxxVlpBVEZDTWFZZ0pZc21fQXpkaUZ6ZUdXOUtpM21HWGkzMHNQbEk4WGhpSUpnak9BUUFTWDlEeUpDalFuVmd0VTlKSmNHUlE4VmVDY2JxWG11ZlJseGJlQVFlc1NacFhtUWFSV0JpNVdsa2pmNlZvVklHRXZfa095bzBaQzdxanZYZkVKU3Jpa3k5ejV2cHpmX09ia1lXbGpaeGg3clFpNjZMNG8zeTZIaHpOY3RGZ2xHTGpWRjY4UkRNVDVYbExlYnFhMURUZ2lKSnNtTWpMRUVrQXlZNkJfQ3haZTQzTk9iVmtFckprMktxVjdoeHFRZ2dwSTVhQW9kRHVzc3JfWXpjLTE2ZHluM3VrSk9Y?oc=5",
+      "source": "IDNFinancials",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Mid-Nickel Cathode Materials Market in the Middle East: Size, Trends and Forecast to 2035 - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWRQbzg1S0tJWTRna3RzcjBrcHNWRUllbFhLS0pFV0tOc1RVQVdDUWIwdTVlRGZMU0k1cVVpdnJHaWZJS3QyNmFUVENobzNFUUhlemZ1VEk1QkcxeHpuR3hRcUkyRDdyeHMwR2RvNU1RaFN3MW1oVTFzMmJIM1pWb01zdG4xUUZHSXNVZ3JzVVRwN0hzRHI0eUZtTWo1RFZWZWQtNUVQTFJYWF9FTVQ5SVJRMGZMSjgzLUx3NUln?oc=5",
       "source": "IndexBox",
@@ -411,6 +1144,19 @@
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
     },
     {
+      "title": "[패트롤] 구리시-남양주시-양평군-포천시-하남시 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1taDFyRXJwblMtZjdGWDhDb1ItZmtsVHltQlZ4SGt5R25hT1VpSDRDLU5NSXFZNWhQZUxJTDFtekxpZEt1MXg2MXFoTnk5Q1VTMC1Wa015NVh0QVBsNXBQdVJR?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "2026-10-24T13:20:05+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "GolfWRX Members Choice presented by 2nd Swing: Best iron shaft of 2023 - GolfWRX",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHFLRmZkd3pUZGZXaWgwWXBkSlNISW9jai15S1Ftdk1aZ0E4djdlYmhJdnk4U0tZZFFhbmdxd0ZpbFpneWhFcXZZMG9sb2NKR0pwdVhLbDFfX19ERjZweldTdEFfbDhhRGQ5TlNScjc3YTdiQUt5cjkya013emVDbFJJVDNCdVNsa2VhV1ZSTE5hMjNUSmpDM1RKYWdFQQ?oc=5",
       "source": "GolfWRX",
@@ -435,6 +1181,37 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "GM 희토류 자석 공급계약 해지…서방 공급망 자립 제동 - 초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tYjVCcHpCWXJkT3JGd0dub05sa2NCSzFkOUhYTTBWSmdlTXZpSndhSnNHcGtZVTMxaW85d1EtYjdYSVdhUXRUbWpnc1JGVFNtV2k2VHhtZEpqNU5meWFqN3VCOFRGaXM?oc=5",
+      "source": "초이스스탁US",
+      "pubDate": "2026-10-24T12:24:00+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "부품",
+          "evidence": "자석"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Graphite’s Mike Tilbury: Rise of AI content could lead to ‘rights-clean’ data re-rating; Mutares completes largest-ever deal with Sabic carve-out - PEI Private Equity",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOU5NT0dyb1BQUDJzZzJybUt6dnBEaTVZenhwVlVpSkZfQXIyaFRNYnA0WERUWXptWXQxVHJ3dk5sanJXdnpRYkpQUUpENGtHZS1TYndEUnJqUERCelhFUUwyVnJka2J2TEFFNG9JRUxVdk51S1FKdzZSUWFIaG5oUzVuTFU3cjdvRWV4Z0pHdDhFeEFWNDM0eXNibXBvdWNNVnc0MnNiTEEtZnYxcDFIMFlJQWt4TG43SXJsTXY4Qnp5RTR3LU1KVktaY09CTFVzTnJIS1BqbG1iTHRsQ2dEQm82ZkRCd3Rocl9MNDlHMmFTOXlLc29PSFRKVXlaX3BaZ3EteEF0Y2Q0cDdWWDNFYnh3?oc=5",
+      "source": "PEI Private Equity",
+      "pubDate": "2026-10-24T11:12:51+00:00",
+      "mineralIds": [
+        "graphite"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "구리농수산물공사, 제13대 권봉수 사장 취임... \"\"현장 중심 상생 경영\"\" - 메트로신문",
@@ -616,6 +1393,32 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "구리 12개 상권 순회 ‘와구리 페스타’…내달 21일까지 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qVzQ3MXhQRVVEWmFCc1c3QTlocnhuckczQk5reEpWa2k2RU1NY3hyaG0ySTF5d2ZiVUkwVWpqYkgzc0xGSE1vYm5SVQ?oc=5",
+      "source": "아이뉴스24",
+      "pubDate": "2026-10-24T03:09:50+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Top 3 Canadian Lithium Stocks To Watch In October 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFhwWnZ2d3duUUFZR1ZQZkkxMl9VOURVVmVrS0ZYZURacVZvc19jYTJ0dGNxN1d0Vk1QblpLRnFoNVliZkNZNVh6aFVTVGNKc3pnRHZpMkp6WWZOUllIWDVNd3hCa0JEdEJFcGVHQU80Qmt1MmtJQjlPN2dERkNQcXp3M1hJX3FOUHAzQlBEemZtVWkwc1h4ZnJB?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "2026-10-24T02:09:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Sandur Manganese Leases 6.2 Acres at Vizag AMTZ for Medical Devices Manufacturing - Hello Vizag",
@@ -1237,6 +2040,24 @@
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
     },
     {
+      "title": "US-backed group Congo mines deal with Glencore in ‘final phases’ - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3pJWlNOOC1VOWUtZktRS2NPSlBIdVRqejc0YkVCYkFIN2o2TzlqSWdkMTRPMGZzY0EzX0NZa0QwY2xabENPWnc0ak1QWTc1Ti1tOHpuZ1JSX0FCamc1UWExMFZ5STAwamJjcmYtbXNOSFlSYU4teDFoSWlnX2NTdzF1NDBwUWhwbmdrU3ZGVGRIcTdt?oc=5",
+      "source": "Mining.com",
+      "pubDate": "2026-10-23T16:58:50+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "채굴",
+          "evidence": "ore"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "옵션메트릭스, 밀·대두가 구리 능가하는 원자재 숨은 강자 발굴 - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wbnZHOGREV0wwdVMwY1hPRWFMVF93RC1yUkJIb2UwT3Q0NzJuRTJubDN0YXo1TDFBSU9mWks4UXJGN3pNR1h0VU84WnNlTjdBb21SX0poUGlSUU5vVUNRWVRwYmZzSjZ1YU0tQklucw?oc=5",
       "source": "Investing.com 한국어",
@@ -1325,6 +2146,19 @@
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
     },
     {
+      "title": "First Quantum readies Argentina tax-break plans for $5.3 billion Taca Taca copper project - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZWhUX3hGNFA4QlhDS1I2TXlrY0pmNnpad01KTXRDMjFkNVRqbmNwNHZNMGk5UFVlYnRhQ1F3cXNaWTdDcF9Sa0dDOFVJMFlfVHNxUnA2R1lCLWtJSXFKeC0zSnpXMUtPLVdvcTNZUGlKRkpYT3ZveFE3SjQ5aDAtb3VjT3NQNFZXZ1hJenFPc3VqbUtDMHlqcDc4Tkw2Z2lDQ0RGb25vQ0l5UGFzQkZQeGN0VGJ5V1RodkF4ZzFRNzd4cG4z?oc=5",
+      "source": "Reuters",
+      "pubDate": "2026-10-23T16:27:43+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Sigma Lithium Extends 4-Year US$100 Million Senior Secured Debt to June 2027; 7,090t Produced Since Restart - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDNQSm85UDFINFBGMExXaUE4QkV3RDhQQlJnc25qbFJhcGZ3aUJxZ29hQlhjV01GOGpGd2wxbjB5OHF5V05yaU5ZZVY1MFlUYlh0c3lNWmpnbEtodGVNZHVNOHRZWC1wOEhkaXdtQkpXQzA4eGhzTFBYWkM2cEVSLVBBVVVjbVh6alVR?oc=5",
       "source": "Yahoo Finance",
@@ -1406,6 +2240,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
+    },
+    {
+      "title": "A New Horizon for American Lithium - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQU9pUDRqS2Q1bmstZG5HeVZKekxoOHJwZlc2cFA1akFtNEF5R1A0TjFNSGl1blJnTGJZakRKVTZzME1sc2hsVkdWS3YwSWRNOW00OXJYSk9WQTg4V0pidHpKRjRRZkdVb0ZaT3BoOGJWc19pUkttMFIwNzNHRzQ2NU90aFA2QWlZbzdRdkktS0llMzdNYzd4eXV3?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-23T15:40:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "GLP-1 Receptor Agonists for Long-Term Kidney Protection - Psychiatrist.com",
@@ -1525,6 +2372,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
+    },
+    {
+      "title": "Saatva Mattress Topper Review (2026 Update) - Personally Tested - Mattress Clarity",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVZUVBWlQyQ1ZwVE5JTl80U1k1eVRoVzM0TnhLUV9Qd3I1TmJOV2FRcXhLVTV0WlgtOEZfNEpJUDQ1U3kwODFMMGh2S19IVFdyYVB4OVRjdkVQRVBaTC1keVVBNEhtZXVXOEZPVndTMkdUdVV5U2hJ?oc=5",
+      "source": "Mattress Clarity",
+      "pubDate": "2026-10-23T15:02:56+00:00",
+      "mineralIds": [
+        "graphite"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "프랑스, 구리스크랩 전략 원료로 관리 강화…재활용 밸류체인 구축 속도 - 더구루",
@@ -1726,6 +2586,37 @@
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
     },
     {
+      "title": "Lithium - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fRWVKcDNUeGdSeE82cU1fUFVjLUZtSUdSYVRLT3hQa054Z3BqZ3NNRFNCcW9XcnloUlZMTEd2UDhZY21hX3M5cFFEOGkwMXFZT1FpNWlXeGgyZw?oc=5",
+      "source": "Department of Energy (.gov)",
+      "pubDate": "2026-10-23T14:00:32+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "National Blueprint for Lithium Batteries - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOODNiV0FkMmM3UjJfY2ZkMXRNRG5pU1JndVdVRG9iblNvQ01DVV9VRWpzUHNPTkREQ2lBanhvaXJSdGJnZnRBa1ZkaS04bzVRamdrNUdaXzVPRkJqN28wU1hmay0tcjVreDdSeXZaQUlmdWpmLW9hMDBhTFItZ0xvTlpNS093UWhIV0E?oc=5",
+      "source": "Department of Energy (.gov)",
+      "pubDate": "2026-10-23T14:00:32+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "Batteries"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "No lithium metal anode to start? Silver-based additive helps stabilize next-generation batteries - Tech Xplore",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfU1ZtQlBKUThJRnFkbHlvX3p2aGQ3NVdoSUNzYlpUR2Izc2RTWEV1cENZVUN0dDN2emlGOEIyWkI4Rm1ITm1NcFM2azBZOWxHZ3YzS1lUVzRqbGVKMkxlbFFVRm9pQll2alROZV9JVlhQSnlXMGRjZVVPVFRaZw?oc=5",
       "source": "Tech Xplore",
@@ -1751,6 +2642,24 @@
       ],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
+    },
+    {
+      "title": "Kodal plans West Africa lithium expansion, CEO says - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHl2eElLYmFWM3RXTnhmSTg5amsyXzVzeWZJRW5QVGtrUlEwNng2QWUwMTZmLWpHWTRna2JFSnZadHpjU1VTb2lZc3pTZ1dIbzkwYVF4aHZHd2JUUG9KMmZFRXlReWtMS0dvZ0d6VW9ueWxNcUk1OEN3NHp2NFJJZkNEOVlZR0lFYXJjMmx5Tm0wT1cxemhfZUc0SF9seFU?oc=5",
+      "source": "Mining Weekly",
+      "pubDate": "2026-10-23T13:49:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "채굴",
+          "evidence": "Mining"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Sandur Manganese subsidiary enters medical devices sector with long-term land lease at AMTZ Visakhapatnam - Prop News Time",
@@ -1897,6 +2806,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
+    },
+    {
+      "title": "Sigma Lithium extends debt runway as restart gathers pace - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1k3RUxab05OdzQwMGNRS25uS3NsQ3hYVURnMUdVOXZxd3VMcGppRXd0TjVic3c1VTkxVFJoS1ltbXlnc0F3eHpkWFFWZ2N6bThWXzFBX1ZoZFMtLTBUWjd0d1dTV3dQUWZkTUpEdnhqMFA4Z2xaaVlzeHVLMnQ3ZGVMaXEyTFp3RzVSbk5uYUlLNnZZOVRwN0FULWM4c0thZU1oNXVCVFhiYW5aQVhHMmVYaEtWdGlBelJFd05CemRSNEtrZFpr?oc=5",
+      "source": "Proactive financial news",
+      "pubDate": "2026-10-23T12:44:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Kodal targets Ghana lithium growth beyond Mali mine - Mining.com",
@@ -2915,6 +3837,32 @@
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
     },
     {
+      "title": "Why some metal hip replacements fail - Chemistry World",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3hnSi1GV0xOTUtUTmZwSTJmOF90U1pfUmlka3F4b1AxMUpFejlLVWZ5OXZrWjFOMXhHWE05WFlXbm9sanBSVGZ0eWRJazJoVG9TUXUxazYwRlBjZ2VTN0RhVjJ6S3ViTFJnVmlyTDI5cHZpYml6NURsdmdoMjctYXZldUdNWHFiMWdoMVln?oc=5",
+      "source": "Chemistry World",
+      "pubDate": "2026-10-23T07:00:00+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "Copper futures bounce from five-week low on tech rally. - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNkd0hOWnZucGdyUWlrc2JxbWllb3Vzd296RERDcTB4aXhkRFZCVjB1cDRUenBWWndFSE9kQWpITjlzaWozVnZoUjdIMFZLYURLSk9pcnVpcXRGaF9lYTJ3OGtKNEVKWEEwdnV6Q1hObS1iN2pKVTR6dlFuc3gwc2owdDE2SmVwMFdJaTVVdnJ2RUxRZ0FVX3JPUjhmdmNhQjJReGZDTHZlUHVZVnhFdg?oc=5",
+      "source": "CME Group",
+      "pubDate": "2026-10-23T07:00:00+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "엘앤에프 실적 반등 핵심은 하이니켈 양극재, 허제홍 휴머노이드 시장도 공략해 성장 가속화 - 비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05YTRZQ3dlSVY5clllZUFCZXZaMDFVYVBVVExGc2NHZ0hVWVh6VzhNTGc5YkZUSnJWNnZvemVNOWoxZFpfXzE4U3B6eWVoRkVZTl9ocTg1NG51bmpBWS10RlphOXJXblF4WGwyeFkzcFBPaEE?oc=5",
       "source": "비즈니스포스트",
@@ -2949,6 +3897,25 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
+    },
+    {
+      "title": "Nickel Industries says Indonesia cuts coming as Chinese producers weigh steep reductions - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSVpGeWhOXzJrdmswU1hPUzc5bWFmMlNibm1CRl8zLW9uUkNONmJCZl9SWkZJR1dHQTJoZ1dKa0hKa2g0dXlON3NON0lBVWdCSmdIc0xXNkxlTmR1WnNfa3RxVTUzSlVSd3B5dDJpYzgySnV2QW5qN2ZYUUp1dV9BaS1NR3ljWG9HM0RXdW4zelA3YXlKckdiazI0NVViVkk0SXgwZ29NaHUxd0hYOFNWODRxRzVSUjliNU5iaEhHcEc5S1paWlJPckhMNkViV0pOekE?oc=5",
+      "source": "Mining Weekly",
+      "pubDate": "2026-10-23T06:37:00+00:00",
+      "mineralIds": [
+        "co",
+        "ni"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "채굴",
+          "evidence": "Mining"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "구리시상권활성화재단, 12개 골목상권 잇는 ‘2026 와구리 페스타’ 개최 - 경기평화신문",
@@ -4180,6 +5147,19 @@
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
     },
     {
+      "title": "Latin America's EM Resource Boom: Copper, Gold & Growth - VanEck",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjdxbkduWmxIWUtjckVHY0ZmLWRYdG44TEgxNlgxSGhFZHdPRkJTdjROMmNtUEJvR0p6LWZDLUtYakhFT2dxZm1wcUw0SzZTLW9DZDJwZXB2MzBLclYyaDJ2SFp6bDd3dDdvTkFWUWFhU01zWlNhTTBvZ21sS1pVMXlpU0VSZFRWeG9LR1JNWFo?oc=5",
+      "source": "VanEck",
+      "pubDate": "2026-10-22T21:49:49+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Bargains emerging in sold-off copper and lithium sectors - Livewire Markets",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWtqZWdQUUR4SW1Pa3lZYU5mNURfLVVNT0xoSG5nZDZJSF9lWHJqUGcyc05uaTlNZ2U1LWNfaHI4NVlNMGxCeW84eVJYNmVKQ2x3QWR3WUxkY1ZZaDdpZkc4WWtrTURONTBRU2I0dTY0OHQ1TjJLcDhQYzQzQmV4UmprWGwxQk9ZaklIRXg0bHhkak9MQkVia3ZR?oc=5",
       "source": "Livewire Markets",
@@ -4523,6 +5503,24 @@
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
     },
     {
+      "title": "Challenges and requirements for lithium–oxygen batteries - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUcFhTRXhlM0htSGtWUUZwSlZTeDlTTHViNmVvNzNaVmZHSXdmQktWY0tyYVNqQTQ3RGhEYXpHY1ljTk5uUksyZUpvUElhUFp5aFc4QlJ5V0NpemFrOTRN?oc=5",
+      "source": "Nature",
+      "pubDate": "2026-10-22T17:36:06+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "batteries"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Copper wire theft leaves some eastside Tucson streets in the dark - KVOA",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU09OZXlFelF2QnN4OTZmV2d2VmJHeE9OcnBGZWVuY1VURWQtSEdhYVZuR0MxZUlvT0tMcDMyMW5mYy16cUNFMl9mNTJ0QWNjY2tyVUVnd1lPaGtXSHBMMzRyT2dBeGRaSTR2Y0dQMi1BeVNWMFZndW1pVFFUeDBFZ0RFOWd1V2pUenhKMWd6VWJMQkp5SGRzV2p1NUZxN0RSaVJ0ZzI0MFBnamM3QXVvNGw5c2RLeDFCNmI2b21JeUJza1h1NmNCYXdjQXFaTURKV0ZwcVBNYW80RU1ZdEltaw?oc=5",
       "source": "KVOA",
@@ -4560,6 +5558,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkNBeVRqYVRfaUlRTDI0TjF2YXJfaDVBY2dqMVFiX2t2bUxLWmY2NG5UOUx6Y0pkeEV5ejhnclhSVGEyRWRHZVBWc2xGSjVVUFF6NWhXeUhFTEFFM29yckJEQkkwQTRRMHdwNjZUbTdCYzltRGxBRGd4b05KWHJ5bHFmckR3aWh4S2VEUDJPUTlhSGFnZ0RCNzhnczM?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "2026-10-22T17:05:02+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Critical Metals Sinks 7% Despite Shareholder Approval of European Lithium Deal; USA Rare Earth Drops 5%, United States Antimony Falls 3% - 24/7 Wall St.",
@@ -4742,6 +5753,19 @@
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
     },
     {
+      "title": "Cobalt: waste and scrap (HS: 810530) Product Trade, Exporters and Importers - The Observatory of Economic Complexity",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BRzdEU2ZjaEtiTjk3ZzBGNmtjX1JGRGhrenZBdHBZb2w1eUVsTjFHZnBUbEZrZVY2UGhDMTJpNUcxckt6d0VyYjg4d19ZaG9aMXNpaW9aU1UySEUzNXh6UU1TWGQ?oc=5",
+      "source": "The Observatory of Economic Complexity",
+      "pubDate": "2026-10-22T15:51:16+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Vintage Fiesta Tom and Jerry Ring Mug- Cobalt Blue - khorasantimes.com",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ybzIwQml2MWJTWGZ6bnFtZk1oaDJfOHVLeC1YZzc4UUI3UFdhUk5aMzJ1UF8xWU1hRUFnVmRSLWpUOXUyOVBNMjZMMy1Ndw?oc=5",
       "source": "khorasantimes.com",
@@ -4807,6 +5831,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
+    },
+    {
+      "title": "Critical Metals’ Merger Gets Strong Backing From European Lithium Shareholders – Here’s What Comes Next - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQW1VVDJYOHd1TFVLRW05VjFmRkE5c2x6Q2cwd0pVOXF2SFVHTnNWMUdVRFpaUWZGUU1rbzlwcy03anpud2V1U1dBOGNWZ0JXcklDZ1p2bEE0YWVUUmdKamszOXdLd21nd1ZVZUhvb1FwQ21PNmxpb1lRbVQ2cVBrM2c3OVVpQnd4a2VZX1RfaEhSVG5PRDFKWlJuNi1ONWJDLWhtSGh4bGJPNm9mM3NfR0w3UUk4SHFrMERMT013SGZqUGVaNW1Hb2dmcnVuTHBTbnpMTDUzZnlqSG9sc2c2cEt3UW5IUVZtMzFVQWhsVjBwaVk?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-22T15:19:24+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Critical Metals’ Merger Gets Strong Backing From European Lithium Shareholders – Here’s What Comes Next - Stocktwits",
@@ -4975,6 +6012,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
+    },
+    {
+      "title": "UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0x4SDdtdTFtSzNSU2J4RUxMa0FLT1FyY2xkeGxXNWphOFNqRW8zWHBYaGdpNW9tLV9pcE5LMFduYl9hN1VGTEYxMW9HNTNiLUN6VmJFdDdDSzRZMnJYWnhSY2xJcWxjNHpQUXhKRkdwVkVBSWxRYUlxVVdCT3Y2bDZqU3FDNFJPcG82UXE5ZUtldEJrVlJrRUVXUU0ybmZPenlxcmdkVUNsdDVJNVdMV1NpUHBNUDVXYnVaNm1mQTI?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-22T14:36:00+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Dante: What’s scarier than being uninsured? - Rio Grande Guardian",
@@ -5186,6 +6236,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "[학교소식] 구리남양주교육지원청-남양주시 아동권리교육 활성화를 위한 업무협약 체결 - 전국시민의소리",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KNjhjcFhFaEdUVEtZZnBrWEtfQlV6Y0FKNnE2aXhWSkhlTDNaZFRyRXVTQVlRbkxQWkhOOVNHUnRLMEtWRk43RklCV1h6WEhEZEpvSHlCbnRkX0U0MjlaQUZFU21rWk1vQjFINXVR?oc=5",
+      "source": "전국시민의소리",
+      "pubDate": "2026-10-22T12:33:21+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "From Flights to ‘Incentives,’ Indonesian Nickel Giant Harita Approved Payments for Local Politicians and Leaders - Organized Crime and Corruption Reporting Project | OCCRP",
@@ -5511,6 +6574,24 @@
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
     },
     {
+      "title": "Potash Mining Depletes Brine Levels as Lithium Concentrations Rise - AZoMining",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16Nm9USUU4YjNPaWhaSnBpc0NXblE4QmdmQ2I5R1BsWmxkc1YzLVJ0SXFHY0pxT3BmZVJIeUFWZzgyNXJOdzRFVTF5UnNzS2JMeFptaHBTTlU3djhE?oc=5",
+      "source": "AZoMining",
+      "pubDate": "2026-10-22T11:14:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "채굴",
+          "evidence": "Mining"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Learn Why The Bull Case For Equinor Stock Could Change Following Lithium Project PEA - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDJ4ZjU4akFlU3dUa3puYmhfMHlJWHVVVDZWWHNEakhsclE3RVB2Umx5TkRPMFhEZmZoZHpXU2xXUF9DTEp4WXV4Q3RSTlpvbGpOT0hId3ZGWUlmeGVySWdGamdQVWhzdUYyUjVZT1AwaEVocWFIdWFpd2I2UVEzcXB6anp2ZTZ1MVl1cXR4YU92MDVKaG5Z?oc=5",
       "source": "Yahoo Finance",
@@ -5558,6 +6639,24 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
+    },
+    {
+      "title": "European production drive sees China’s lithium-ion battery exports to EU surge - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0VIdFZJNm9BLVBDWWNlaGNfNlZSN294ZVdudThJYkY5anpTckMybXRBZmRqbXFfR2VKVlNSMmZJZmxMTUZpdzBFUGdGSk9JZWo3aW5NMEVlclZRTFYtRzN2Ml9Qb0tmOFlRcEtuQldVdGMwWTd4QUZQem83a0lWc2Z2X0V1cExRaTV0eGRPdm1WYzZTS1BPWVl4S3ZZTDVPb3JFdDVROWdIQTk1bGxKbFk1TEdMTHppNjhvcU9jWUdmSVZOLVpBOU5DbXhRdnhsVlE?oc=5",
+      "source": "South China Morning Post",
+      "pubDate": "2026-10-22T11:00:14+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Veloman Terbium Carbon Wheelset - Bike Hub",
@@ -5765,6 +6864,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
+    },
+    {
+      "title": "[SMM Analysis] Indonesian Nickel Output-Cut Talk Gathers Pace, but the Case for Cutting Diverges Across the Supply Chain - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSXBTOWFnd3RVQzJVM2QwYkRIMTdfWDZKRExyT25pZDVndnlqSy1vQkpqSUNSVERyQjdZNGFtR2pHSy1FYU1iSzRDdl9ITFl4cUdpRm1uNEMwY3BLTFJKc1hyTi1sT1d2eFFRSERtRVZBSXBpbk5rQTNuY3BMLXVwYjJLLTM0QzBXTFNoRVhHbGZJMTVlTURSYkNHVFkzeldTcjNJaVZITjVRQ3VOZzdEZWtxZkUwM1BxaWlRa3prazVCd2xzcHlURzB2WW5vMk5yNVJReHNJaHd4dmRhbGxJWWVjeUlZMmpYOG9ENUVpWXJMZEszdDV0Sw?oc=5",
+      "source": "Shanghai Metals Market",
+      "pubDate": "2026-10-22T09:12:00+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "구리서 같은 고시텔 거주자 흉기로 협박한 50대男 체포 - 뉴시스",
@@ -6162,6 +7274,37 @@
       "firstSeenAt": "2026-10-24T00:43:20.926948+00:00"
     },
     {
+      "title": "Investors push for action to end deforestation and human rights risks in nickel mining - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHA4dEhxcmdfQXpWNUNfaWI1MmljWFQ5UnVubGJmeVROYTBWT3Bxa0FyY2NHNDdmQm9XdWJUdmlseTF4Mzk2ekg1OGRPVUZ2Z19XY3NJaGYwZTJfRHctTXdPRnM3Y0VteW5Id3RkQkxDMEZRWllZSzVYVEZ5Y3VMc29XNWtWU05BRzd1WmN6WEdpRWMwZlBiVXdqT0xqS1lfWnNuV3cxemlqVXF3RnJ6V1Mtc1NIdHhzaHdDelEwa0hmUzh2YzB5U2QzNnc2RnAwN1RJZEI0anhsSGRhblE?oc=5",
+      "source": "Reuters",
+      "pubDate": "2026-10-22T07:00:00+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "채굴",
+          "evidence": "mining"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "글로벌 페로망간 시장: 규모, 동향 및 2035까지의 예측 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2dxdUJrMk1aOVJwNTNYUWNJNlN1NkZCMFRyUV9Vd2NfQWJuamN5dUVGRzJtOWF4bTBtenV4Qk53aFB0VEVoTVR5VHRDUkVBU08yQjBxcEVpUWhMaGZrUk1xYW1iaDlDVWFnSmFsRlBhZm5fZl9na0V0djRIT0puRGpvaXBaNGNIQzhZTXpER2JkTmNtLVNxYWNGSk5QVmc5aWtGRXRoM3BEQ24tU3pLaExWSmh0VENYZXc?oc=5",
+      "source": "IndexBox",
+      "pubDate": "2026-10-22T07:00:00+00:00",
+      "mineralIds": [
+        "mn"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "[中 거인의 공급망] ②양극재∙전구체 공급 '완룬신에너지' 없으면 'CATL'도 없다 - 네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaMTNnVDh3cl9tVW4zeWNPdkJJTWRsRFBwWGRwbkhISDVWeUVJVDdGa1p6em96aVJ0aEg3MU9URUlkS0xuMjhpWlRvQVEwckZvWlRmQUYwUDIyNmR1Ym13V2Z4RHpqMWlsNHRSd3YzaTFqTXFOSDk1ZVZXSQ?oc=5",
       "source": "네이버 프리미엄콘텐츠",
@@ -6468,6 +7611,19 @@
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
     },
     {
+      "title": "Our Pick Of The Best Copper Stocks In October 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUlyOXhJMGZWTzlmRkktRFNFRHJhX1pDNUd0dnRab3JvVXhEb2FIWVpHQ3FpdVViQ3RQTnpkdEFzUE5tOHlkcWRjMkJDT0tTTFBEQzBLWjZsb1lsV2xULTh5OUFFV0RzY0NURGQtNDR4Ykc1UWFyVmFZLW53T1d2R0tyT29Qd0NpdU0weWJ6VkJZbXp2a244ZWJGY3VscnlValVn?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "2026-10-22T05:58:22+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "장승희 경기도의원 “구리교육지원청 조속히 신설해야”…교육자치 독립·교육격차 해소 촉구 - 전국시민의소리",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RRXg0bGZrdTc3cHRUdk9ZQ3Q2ZUpIdllldzBnVU9RRjFJMHVGaUVRb05Bcmp3RG1tdW5hMWNWeWQxVEZtbFJHNDI4dHZLTEJDZFRvcVRBLWoxOTVIRWNnVmthbHR6STk5NHAxa0pR?oc=5",
       "source": "전국시민의소리",
@@ -6754,6 +7910,24 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
+    },
+    {
+      "title": "부산대학교 정세영 교수 연구팀, 구리로 백금 수준 성능… AI 반도체 핵심 기술 개발 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUGd0WTROaENWOUxBalBwNjVmV1JOcmFBQWJQOFpMdzRFek9FWGVJSmFWVWZ1ajlXS251d1ctVGlab19HMWVtWmRmYzhKMlNpbXZPTG9vMno5MVN1NTBsSW53UzJWOU5GQVpDWkp1TjnSAXRBVV95cUxPcTE0RGRxSVZVSUZna3o3Q0pBX1BuOFR3QzhfZVJuQ2ozci1UbW5fOEU0NWo2cko5SzE3VjJIY1hJdEg3TjdxTWRsSEc4eENjcXVyUjRwbUVPd2hyVjNjUE5neGctZnlmVmh0Z2p4N2o1MU54UA?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "2026-10-22T04:34:51+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [
+        {
+          "label": "반도체·연마",
+          "evidence": "반도체"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "신동화 구리시장, 한다리길·백교·샛다리저수지 현장 점검 - 유교신문",
@@ -7781,6 +8955,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-22T00:41:42.084173+00:00"
+    },
+    {
+      "title": "Chile plans five new lithium tenders in push to double output - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkFETC1PZ0RKWUNhRXRtRkUzUWR3Qm5oaUptblVmS2hTanRoMF9uaGl0TUZNQjBzLVNuU0NGeDh4RHBnY0d6VENiOVo0QndmeUxTaTdtS1U3Mk9wNDFsSWZjZlltN1RtTW1kTEpsRFFwYnVqWVZMRkV0XzZ5QUVNU1dDd241Ul9Iemd1Ym9qZERyd0NfN1lxc0JCR0d6WWJrYzVSZXFkOVJEQQ?oc=5",
+      "source": "Kitco",
+      "pubDate": "2026-10-21T19:35:53+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "A comprehensive review on development of texture in automotive-grade medium manganese steel - Bioengineer.org",
@@ -10424,6 +11611,19 @@
       "firstSeenAt": "2026-10-22T00:41:42.084173+00:00"
     },
     {
+      "title": "BHP Group (ASX:BHP) Keeps Outlook After Copper Drop And Fatal Incident - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlEtbVZybERNLTFDdS05YXRqLU5pRTQ3bGdkM2RaMXdSbGMwaGxzZUZKM0haenJ6MUxQNE5jU29uWEJBS1o1YVItY0RXVnp5eW52WUw2clplazg3Vi1UYmRsZnBmUEdjRnROYzZ6U25UQ0pMaWlpeFJzUjZxZ1ZzV0Z1eUxOWFRhQ3NTel9ZUjNiSndjbkh0Zw?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "2026-10-21T02:13:00+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "수도권 분양가 상승세에 '구리갈매역세권 신안인스빌 디센트' 주목 - 한경매거진",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RTdwaFdoT01hRFl5eHhMMXRDT1pwMGVBSlZ0cTJISGJ5aHpwNE51clBDVXJaclY5ZkxYY1kyX3dRTDUzdFpHdVlUYjh5bXNrSUg3ZXBTM3JRVkZDY092am5nbTlqSFBock9BTQ?oc=5",
       "source": "한경매거진",
@@ -11357,6 +12557,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-22T00:41:42.084173+00:00"
+    },
+    {
+      "title": "EU and New Caledonia forge partnership over nickel for greener industries - The Brussels Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNend5LXgxdnlwbEloT2F1YzlIcU94MEdrVGlaYkhnTTE0VjVjbnZOSzNNRnUtWTMxVWU4bERRSE1zS19DaDB5SmpsRGt1UVAwQUxXVDJTMVNOQ1c3Ujg2a3BMNXJNRFJPODBnZ2tQdHc0YXlDUnN5SzhycUhKNHJ4MlhYbEE2YVVSVHB5UjFIQ1BFWDYzTzNBdmg5emFiNGI3SS04RkNDc2xTczNpaXF0RA?oc=5",
+      "source": "The Brussels Times",
+      "pubDate": "2026-10-20T20:04:47+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "AT&T Says Just 1% of Eligible Customers Still Use Copper Voice Lines - Broadband Breakfast",
@@ -12586,6 +13799,19 @@
       "firstSeenAt": "2026-10-21T00:37:48.319563+00:00"
     },
     {
+      "title": "Cobalt Institute of Math & Science Academy vs Victor Valley Girls Golf - Aug 24, 2026 - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlA1QWtwck9wM21COHlLZkFFR0Mxd0hkd3k3YWQ2Z2c5QkxtMXZjSi1wZlNGWW9nLVF1bUlveGZsYXAxY1dmcmFmWUh1cHFWNlhZZ3hwcGpBNnBjdGYtX2lrcHZNXy1NR0Y0NUtYWGYtQ2VGMFh0T3lZX1ZhM1ZQdDBiNVVwWEY2akJCM2tPUzdKTHl1X0tNcElseGJZTm40OGx3dHE0cldlZFA2Mk5oVzhDX0Y1OFpvaGRfXzRCYVBoTmFnY28tME9R?oc=5",
+      "source": "Sports Illustrated",
+      "pubDate": "2026-10-20T10:35:23+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "Codelco Sets European Copper Premium at Record $350 a Ton - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzBNZ2Y1ZmZ2bS1Iemk2MTZzNWhibEdSSGFlQzJhWXEwci01a2VycjQyaEZjS19VYV9fbVlWNkItOXFpeGc3WVpEcVItamdudEZsTXJSQWV5TUhZa3pUODM4ajdNZWoxQ3RmRk03TFFKT1JvTFBjeDV1ZjFhaWpLVHByQUd5c2I4RUs0eUZJNm9JVnd4TmxIaWp1Z245S1R0RGI0NXRhSDBWWkU?oc=5",
       "source": "Bloomberg.com",
@@ -12657,6 +13883,19 @@
       ],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-23T00:40:42.648079+00:00"
+    },
+    {
+      "title": "구리시, ‘2026 찾아가는 교육감실’ 구리 학부모 타운홀 미팅 개최… 교육현안 소통 - 경기인저널",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44ejNhXzBLOWxIVjRKRThLT040Z0tSZ0puZnNYdTJBMWZtT2ItNVFUMWJPMDJTdzdtWUFodHhUVWVZRFo5ZWVsYlRLb1d3dnRiM083M1ViRTJqRXZaa0Z1cWhpQU4?oc=5",
+      "source": "경기인저널",
+      "pubDate": "2026-10-20T10:13:39+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Sustainable meso-conical cup fabrication using recycled e-waste-derived copper: a hybrid RSM–Spherical Fuzzy AHP–fuzzy GRA optimization approach - Nature",
@@ -12821,6 +14060,19 @@
       ],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-21T00:37:48.319563+00:00"
+    },
+    {
+      "title": "구리시의회, 구리도시공사 사장 후보자 인사청문경과보고서 채택 - 경기평화신문",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5hZWtFc0lzbHdaQVZqd1NSUURjemFoc0ZwaXdJbTNXdzhiMnhtVGJKX2E2YWVjUmVtaTRud0JqZXJHdlk1SVNSeUNn?oc=5",
+      "source": "경기평화신문",
+      "pubDate": "2026-10-20T09:25:00+00:00",
+      "mineralIds": [
+        "cu"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "AI 시대 '구리' 선점 나선 최윤범號 고려아연…2028년 생산능력 5배 확대 - 오피니언뉴스",
@@ -13975,6 +15227,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-22T00:41:42.084173+00:00"
+    },
+    {
+      "title": "에코프로비엠 청약률 103%… 11월 5일 신주 상장 - 코리아리포트",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93ZVlKYzIwalhpTEcxNnBHRFFGUjF4eTRDUjlVeHBnYjZJTDZNeWMwQlVXSVhNb1I0ODNPanQ5a0wyZU9YVzM0NG5OVnBDODFfQXo3SEdBeVFyZElieHRzQlljNldnTVlTUFg0LUE2Z0E?oc=5",
+      "source": "코리아리포트",
+      "pubDate": "2026-10-20T04:37:29+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "안민석 경기교육감, 구리·남양주서 '찾아가는 교육감실' 타운홀미팅 개최 - 경인미래신문",
@@ -15922,6 +17187,19 @@
       "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
     },
     {
+      "title": "RENFORTH INTERSECTS BROAD NICKEL-COBALT AND ZINC-COPPER-SILVER MINERALIZATION IN VICTORIA UNDERCUT DRILLING, INCLUDING 118.0 m OF 0.081% Ni AND 10.9 m OF 0.544% Zn - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzlhM1l4UHdrcjhsVGFsWGpKay1nbzlpU3pJSWNfVEtEUXRfdzhLcldtdVM5a0t0Mk4xZldJUW55VWtBWDhKQXd3YzktcWUxSjBlNEdEYnlwNThlMllLS2xKVERGUEhvT3dCSl9GZTUzNDZoLXdKV2FXUnkwMXoxaDA2TnJlM0FNVW42SlNOQjVaZkpkM0E1aWFaOHh3THV6VEM1Vm1LemtoNXBqNmc?oc=5",
+      "source": "Yahoo Finance",
+      "pubDate": "2026-10-19T17:30:00+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "The case for combining lithium-ion and LDES - Latitude Media",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnhQUzhkR2JpZ2FpZ2N5bkNuS3BkUWZjSl8yV0NxWlE2Smphb1R1MW1zOHpsY0UxQ3IzNGg2T3BydGktVGswUHFOM2poR2dMZUl4U2FWNmlVT3BmNFJQMUdDMXZXLUVNUTM5cDR6VVNXcDNqOHEyMFJ2TU9PbjNrYnJ0SkNEdw?oc=5",
       "source": "Latitude Media",
@@ -16026,6 +17304,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-21T00:37:48.319563+00:00"
+    },
+    {
+      "title": "China’s Rare-Earth Export Pause: What Ends on 10 November - Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg?oc=5",
+      "source": "Technology Org",
+      "pubDate": "2026-10-19T16:19:00+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Skip the bin: Properly dispose of lithium ion batteries to avoid fires at home and Rumpke - WKRC",
@@ -17102,6 +18393,19 @@
       "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
     },
     {
+      "title": "에코프로비엠, 유상증자 청약률 103%…\"인니 니켈 공급망 집중 투자\" - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCQ3FRcVhOeFUwQ1FlaDE5QTk3bTh0dVBKOVBjM0psX1hoLV9CaVkzVzQ1cWF4WEhFQzh4d3BReFRadUQ0V3ZRQ0FHQU9wRFo5U25qVGJtVGNTWmJEcUIxdEg5WlhPdnZTREZzWXJkWdIBc0FVX3lxTFA5Mi1ZbHhWcXYzdzNCMlBHS0dOclpGdENTcGYyWmM4WGV2YzBjZlhZYmlaZ24xSXl5R3ZVMW4wT2hONEtaSFZMT3A2NWlRd1JId0tRa3VnYWxtaHU3Z3pvWVIzdjBySWtGSE04LWhDZXVDdlU?oc=5",
+      "source": "뉴스웍스",
+      "pubDate": "2026-10-19T09:14:40+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "LS MnM weighs copper output cuts as smelting margins collapse - The Korea Herald",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmSkwwdkFEQlFRSDZ4OGFzTWFCRm1IaHIxemZ2WHNMQXRUYlRoSmlJNWs0MlNJVWphNEpWd1FDVXRsTGdmOEVhMEwxMmJVYzNCTmRkUW9ZZw?oc=5",
       "source": "The Korea Herald",
@@ -17505,6 +18809,19 @@
       "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
     },
     {
+      "title": "에코프로비엠, 유상증자 청약률 103% 초과 달성…인니 니켈 밸류체인 구축 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ycjVlWEw0U0ZVQlNTa2dKZkw4S1A2YlAyOEdWajR2MHdsZWNSamc1M1duV3JMRDVELVc4NDJmbk1YVUUtYjM0MzdjbVlfSnkyVFp0Rk9kWTlxQWllVUJCYWt3?oc=5",
+      "source": "디지털데일리",
+      "pubDate": "2026-10-19T07:56:47+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "[中 거인의 공급망] ①양극재 핵심 파트너 '용백과기' 없으면 'CATL'도 없다 - 네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcDBxelBhaXhKQmRxc3JBWjlGOFphTDN0cHJhV2Y3YndaZEpZY1hoTHZCNUZ3bnVVa2UySkhYeHVELXFfanppMk5qV3dWNTF2WldkT1Ztc2J2eXVPbXJycHNNMEw1bnF3bU9Ncmtra0hWeHVCeFljWUtuTQ?oc=5",
       "source": "네이버 프리미엄콘텐츠",
@@ -17676,6 +18993,24 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
+    },
+    {
+      "title": "니켈 등 배터리 소재 공급망 강화에 8861억 베팅하는 에코프로비엠, 유증 청약률 103.25% - 글로벌경제신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5POE9wdHY1QXlSTEFLR2F2RWZ6YXREQzRGTUs3eEtQakFmdkhQUGJEcmxmanRMM1kyLWZERzZBVzFqMVVfWUhaeENZVmpUQ0hzdGxOZ2FXUWRfYnl3NElWQTltZFJ5WmYxT05ubtIBcEFVX3lxTE0wXzdGbzJ0d1pjTTdmZFJrUzhCM192MjFvSDc0aF9SV2szNDdXNTEwcDZCLVFlOTE2ZVdtMFhmWUtJdUVzYnEzYUhyYjA5SlpjNTk5cEcyZ1gzdDdPXzA2VjFHNlZrUGRZRE9DaHJMczg?oc=5",
+      "source": "글로벌경제신문",
+      "pubDate": "2026-10-19T07:29:03+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "[동정] 한양대구리병원 박선철 교수, '2026 세계 상위 2% 과학자' 선정 - 메디칼업저버",
@@ -18218,6 +19553,19 @@
       ],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
+    },
+    {
+      "title": "에코프로비엠, 유상증자 청약률 103.25%···니켈 공급망 투자 - 현대경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02VUxUZUdGM0gzaGg3d1d4TXNmX05lT3hxUFJwS0xwY3hrTXcyLUh0YVI4V3J6VDV5bm9VZkUzQzZrcjVtcWxRMnROSE9yQnJCLTctN1I4N2U2YVBuMzFERXJDSWFYU1XSAWtBVV95cUxNZHJ1ZllpOXFJLThfUzRCb2xUZFltaTFwU0JVNmNQZ1FlZEFYUTdYZkYwejZWb3hMaVp4VDVnMnFUSk14S0hnTW9hOG94ZXlHa283MFZCMGlKaGFDdzM0UG50a2RIMDlhblJfRQ?oc=5",
+      "source": "현대경제신문",
+      "pubDate": "2026-10-19T06:27:58+00:00",
+      "mineralIds": [
+        "ni"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "에코프로비엠, 유상증자 청약률 103.25%…인니 니켈 공급망 구축 속도 - 전자신문",
@@ -19890,6 +21238,29 @@
     },
     {
       "title": "'SOL 전고체배터리&실리콘음극재', 3개월 수익 주식형 ETF 중 1위 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LeHV3T09xZlRiNm96Ry1DWlE4TmFiUmUtT1NmTU1xNEdrTUtvdUEyOElkVWhuUVgyQ2h0T0RIVkxpX0ZSeU5LYlhaeFp6RWRraFJ3SWNSTmExOFVOLVllbg?oc=5",
+      "source": "아시아경제",
+      "pubDate": "2026-10-18T23:37:38+00:00",
+      "mineralIds": [
+        "graphite"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "배터리"
+        }
+      ],
+      "stages": [
+        {
+          "label": "소재",
+          "evidence": "음극"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "'SOL 전고체배터리&실리콘음극재', 3개월 수익 주식형 ETF 중 1위 - 아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GVGRvUFZ1ckFFMTdsVGRTZUlOQmdWVEtQZnJ3eFBuaDhranNaSGphb3ZfYjZybTZiLWhjdnJYcmxlWkw5UnhCZVNZSDJoZzlITk54RVNmS0NVNzBqcTRoSHhR?oc=5",
       "source": "아시아경제",
       "pubDate": "2026-10-18T23:37:00+00:00",
@@ -19936,6 +21307,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
+    },
+    {
+      "title": "NGC Forecast — Price Target — Prediction for 2027 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81dW9KNmgzZ1ZZRHhPTHF2bDV0aktHVlRRWC1XTTdUUFFlYVlyVmx2VmotZW9JYjdVWUd3TDd2a2FfOENWZEhhbFFCNHI2OVNQMWEyUWh3Z0FpbHVTa0lORVcxaE0yZl9MZGlBZ0VmR21FX1J0cGc?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-18T23:14:06+00:00",
+      "mineralIds": [
+        "graphite"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "UNIST·KIST·고려대, 고성능 배터리 실리콘 음극 개발 - 지디넷코리아",
@@ -21355,6 +22739,47 @@
       "firstSeenAt": "2026-10-22T00:41:42.084173+00:00"
     },
     {
+      "title": "글로벌 산화코발트 코팅 분말 시장: 규모, 동향 및 2035까지의 예측 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSW1LSXlIRWtXdGwtRFJ5RWl1MFBYTzlvV0FocWU1Yk51S2xYTm9hVkw0LWlJTUEtcTMxbHhrUmZxTnNfWlNkWUhGWk01WGpJZDBURmxMQVluVnExR0ZWNkcwRFhHelZYaUJjQk9qT25zZG1CQmxXc3h0M3YyLTg0MWNTTzdsdy01eHJGeEh1bkVQWHdScHpHM1BTWWdNV3dzbk5MRWlCWUJqOXBIVkdNUlloaWhqaTRO?oc=5",
+      "source": "IndexBox",
+      "pubDate": "2026-10-17T07:00:00+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "소재",
+          "evidence": "산화"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "글로벌 양극 활물질 스크랩 시장: 규모, 동향 및 2035까지의 예측 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdk9QQW5BdlB0bUVpSFYxZnF6T1V4RHdfVDVNRS1hYVlxYmtWYVZYb25tSGlONG9NUWo2alFVWXlxYmhaR21hdXBjMXFZYXFudFV4cEUwbDBMZlF2Rks5a253OUpGOEdRZlBUU2hicElFNlFPdnh1Q0ZiUVJMdFdNbjZ5cWtZMmN6ajBrSmVISzVFeXp4VkNUUEdVSDBqNHpnbjkzSVFTdDhoM0kwek15eEgzaVQwa2hwa3Fj?oc=5",
+      "source": "IndexBox",
+      "pubDate": "2026-10-17T07:00:00+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "양극"
+        }
+      ],
+      "stages": [
+        {
+          "label": "소재",
+          "evidence": "양극"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "충남대, 수소 생산 전압 낮추는 신촉매 개발···세계 1위 학술지에 실렸다 - 팍스경제TV",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51VHVuQzlKNHdaX3BDb3kxRWNBUmRpRzVrbHd3b2sxM3FmenhIX3JGaUhXeGxuUktVRkxtdDBOeFdaZ3RIdHRvVEVCZDROZHJZam9WbXZUNmU2SHpSOE5DSVhpcWMycVYt?oc=5",
       "source": "팍스경제TV",
@@ -22627,6 +24052,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-17T00:29:38.099744+00:00"
+    },
+    {
+      "title": "Tesla SpaceX Merger Rare Earth Supply Chain Impact - Rare Earth Exchanges",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkUTRzR2gwRE82UEJkcTNxMFltaURQbFhmQnd2SUZPamh5dFVtMlhPQTR2WnlGRXRWVzhrU2VBbXhRMjFtYkhtWVdiNHdjQWpSeUdzdUVJcmFGeF9fVHE4ajZnMUZLZVJOTHpJbHZHUWVhek1sNUc1M1dFX3BKTWM?oc=5",
+      "source": "Rare Earth Exchanges",
+      "pubDate": "2026-10-16T14:07:36+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Nickel Ore (HS: 2604) Product Trade, Exporters and Importers - The Observatory of Economic Complexity",
@@ -23903,6 +25341,24 @@
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
     },
     {
+      "title": "Pakistan companies move into lithium battery assembly with China partners - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3lmVTdwbXJqdGtCb1JTUjFhT0c3V28tZ1d1MXkxN3cwTHp0M2NNQTJ5VTNtTmRNVWJBQlFfRjJnZ2hVX1duWmVBS3ZQNDRVUDRhNGpwZU1LcFlkN1B6cFV1YlVRYVpSS25jTlBycEVpcGdtcUxkdmdqTWRsSEZCaEZmSzd3U1AzeUdqdkcxQXlVVDRFRWJRbFRVOUxhSGZFcl9RTEM5VFFjdkFldzZBeUh4aVJHQlYweUxoZFBWNA?oc=5",
+      "source": "Nikkei Asia",
+      "pubDate": "2026-10-16T07:00:00+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
       "title": "'리튬' 과잉공급 우려에 가격 약세…배터리 불확실성 증폭 - 디일렉",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLX3NkWS1EQVFKdEZhZ0MzTE1XUTJBOWNnbGtVb0M1RW1jazlaMnZTR1JweXFuZ1FQbGZ1REVlUnlVOHVLeC1rY0NIYzF6d2psM2ZzMXRqM0xzU05pb0hYZDNkSlRuQQ?oc=5",
       "source": "디일렉",
@@ -25074,6 +26530,24 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-18T00:03:07.098340+00:00"
+    },
+    {
+      "title": "제이에스링크, 튀르키예 ‘ATES Wind Power’와 MOU 체결 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlWFZ0aUJOdjRDQUhxQkRPQkNKbUZMNllWQ3UybkM5MHd5Um1DVzl1QkVxU1pNTHlQWjljazNQME9VQnZaLWVEV3BUb3NuRXk0X2fSAVNBVV95cUxOTUgxOURjRHVLQW5qSktmRGZXN1o1Ny1aRE91MVR2YUZud0NNOXVzdDNiNjJtd0xoS2pVVVpKSUZqVVNYNXp0ZktYTENMM0hCZkwxRQ?oc=5",
+      "source": "서울경제",
+      "pubDate": "2026-10-16T00:12:45+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [
+        {
+          "label": "풍력",
+          "evidence": "Wind"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "제이에스링크, 튀르키예 ‘ATES Wind Power’와 MOU 체결 - 서울경제TV",
@@ -29173,6 +30647,19 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-17T00:29:38.099744+00:00"
+    },
+    {
+      "title": "엘앤에프, 리튬값 하락에 3분기 '적자전환'…LFP 성장 기대에도 부담 - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DekFxLV9ybG12WFhUOTRtOEVXM3BXaWVlbzdTRHhSbzZIX3NWTVAzVFRaNzNibFloODRwU2g3ZTFaYjU3MmpUd25hbTdIQTZlLUgzUy1NRlNLWGRiVnR0bWRhUQ?oc=5",
+      "source": "프라임경제",
+      "pubDate": "2026-10-14T23:47:24+00:00",
+      "mineralIds": [
+        "li"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "식수 속 리튬 농도 높을수록 어린이 부정맥 위험 증가 - 메디컬투데이",
@@ -34610,7 +36097,8 @@
       "source": "Arctic Today",
       "pubDate": "2026-10-13T15:32:11+00:00",
       "mineralIds": [
-        "lree"
+        "lree",
+        "ree"
       ],
       "markets": [],
       "stages": [
@@ -35047,6 +36535,24 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-14T01:13:34.511278+00:00"
+    },
+    {
+      "title": "Arafura Rare Earths Sinks With Battery-Metals Peers as Nolans Build Kicks Off and Traxys Deal Grows - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUZ2bm03RUVYYmlqTVdWc0JCTFdWMkpjaURzZlpUTmFUZ2hUWEgxRXdPNUdRdUxlVlJNUm1CQUhNSEF4YWFtY1g5MkJVQzYyY2drNFM5aHNTNXFxY25PbHRLYnU4UDF1dVFvWEg0MWtTZFNsYzNDVlFlY25nNVozZmlIdnJkN1FBQS01QTNvaE5pa2JDckhnQ1pzb0RXUTQyN1BxM2liQTlBZHVIYXBqVk5JWWk1M3RpVlduZm5SQ1laMlQtVFcxT0JDTV9fZl9iSU83SzR4bFZwbkhiNGc?oc=5",
+      "source": "AD HOC NEWS",
+      "pubDate": "2026-10-13T12:01:31+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [
+        {
+          "label": "배터리",
+          "evidence": "Battery"
+        }
+      ],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "Not just the prize: How Africa is shaping the China-US race for critical minerals - White & Case LLP",
@@ -38998,6 +40504,37 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-25T00:20:23.521683+00:00"
+    },
+    {
+      "title": "Chilean Cobalt Corp. Advances NeoRe Exploration, Orders Long-Lead Equipment, and Expands Project Footprint by 30,800 Hectares - The Joplin Globe",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPc3JfZmpnMm9UeTR3VU1OODJWY0I0S2R4QnlXZmszRm90NkljaHZlZzRsVFdIdmdCZkNrbE1TcnlXR29JMDFQVURrelNMdGxEcGhXOFBWZzI3VGh5WEZMY2ItbVozN3RCY0FuNDUwYmJXN1hfYkVEcVpYNWt6Wk41a2RHRWt3UTFXOVdwdVgzNnFPa1VpQW1wQkZ3bVNyaWZDT0lXdTAyNnVOR3JUYUtuN1ZveVM3VXdRM0dUTWVVZUVJQ244T2FwV2dZSTQxaU1uVlVNRHZNT2tpOXFiTWhBb3JxNzhiUTNKUUYtTnhQZklURjlzYmp1bWthaEpXUDJIU0g0Z3N3Q1RWSUlIdjR6WjNMWDViR0tnZkNn?oc=5",
+      "source": "The Joplin Globe",
+      "pubDate": "2026-10-12T07:00:00+00:00",
+      "mineralIds": [
+        "co"
+      ],
+      "markets": [],
+      "stages": [
+        {
+          "label": "채굴",
+          "evidence": "oRe"
+        }
+      ],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
+    },
+    {
+      "title": "UUUU's Growth Projects Require Heavy Investment: Can It Deliver? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2NLa1NvSDNlVjh0ZUFwa2lMSk8wSlNKWk5sdlZMMHllenpFSUhYNmswQnZVTzNRd0haQUhsWE8yMlVJTXJGa1VyeU9XLVRnOUtGLW5qamxfR2hvLXZDWFhaVzV3clRyNEpPUVBJaG1LQ3RlUXBsaTV5LW5xREZ1d1EzbjNWcnI4N3BnZ1lNampXX2RpZUZiQlRxLVdhd1BvVXcyM0lHZHRCdWlUYnM0cnllREsyWFJKVFE?oc=5",
+      "source": "TradingView",
+      "pubDate": "2026-10-12T07:00:00+00:00",
+      "mineralIds": [
+        "ree"
+      ],
+      "markets": [],
+      "stages": [],
+      "classificationBasis": "제목 키워드 · 검색 광물 기준",
+      "firstSeenAt": "2026-10-26T00:23:43.247271+00:00"
     },
     {
       "title": "더 많은 전기 저장 '리튬금속배터리용 전해액' 개발 外 [과학게시판] - 아이뉴스24",
@@ -44504,1545 +46041,6 @@
       "stages": [],
       "classificationBasis": "제목 키워드 · 검색 광물 기준",
       "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "[SMM Cobalt Morning Meeting Summary] Post-holiday demand recovery limited, cost support weakening, material prices under pressure - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY3pmU1l6MzJwWFZlUlBRLXQ0bDd6LTJwVHptVUZoWU5PTlVXRGZpcko4a3dEYnowSy1VRVVQR0lNSTUtS0Vpbk5qVFp3N3hORXk0Znh6ZnJRS29GXzFqUkNTeUlNczBPaDhzLXBtaFV2UnBrOW5CVDJ5ZHRtVDJxOEFsRnBmbFYtclk1X21neXpVc0ItcF9KWkJiRVdzendBY0tSTmtrSlVzVzJLdEFhZzlvcUJQX0xSZFA4aGNFUG1mTVZwSU9fVzBISzR1YnpvbURRQkxNM3ROYVpzM3V0ZXBFUXBiWGZMVjRCbTVTZmxsZkNfeGFvNWVRUzlNZHc?oc=5",
-      "source": "Shanghai Metals Market",
-      "pubDate": "2026-10-09T02:31:00+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Herfurth and Nickel power Mountaineers to win over No. 20 BYU - WBOY.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGhHVlRkVDVGelNzU0hZcVpUMVFQOTJ2YWlSQkZEeTNPY2JsLTN0ZWxxN0VKV25RQjNkdWRocG1RQl9GN09PVFNZMHR2LVFia0hSMEw3eUdEVU9KOS1FM0JvZmZzUmhmdWtQTmVJZmpnY1lDend1X01waHpYTld0UXpZbFRaN0UxNERwRVJNZEN0TlNkVkVIZDhCVHFUbWI4WXhBdXgxZDhIOHM4QkY5OXNXX3jSAboBQVVfeXFMUGFITnMwV2Rjdm1TOTQ3MHFJenNUbzJkMXNiMjZpMmtoTjRDZV9JaU1EOVU3QlhBaXRxS3N4Z0FCRGFrR3h0VTlMa0NHaUlidW9SUk1jOEMzVDJfaWRBMC1hYUUya1ZiWXJpbEZoUk9ZMldsYWE2RFJKQWNVZ1pKRkRkLUtubm1ENU5pVTV0VF9PU3gxeFowWVRWeE5GTHdxUUF4TWk2TWJ5MlJlREk1U2liM2Jna0NrQ01B?oc=5",
-      "source": "WBOY.com",
-      "pubDate": "2026-10-09T02:28:28+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-11T01:00:33.127405+00:00"
-    },
-    {
-      "title": "\"꽃 멍 한번 해 보세요\"…9∼11일 구리 코스모스 축제 - 중앙신문",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOd1ozQWdIQjFOOWNqS1JncHpsTjRUVkwtcW1RRlhlSERDUTJiUkZQYmI1ZDlVZlNCVEJ0d2ZlWno3amR5ai1vXzVrZHk2R0MxaW5VWWNjSGRXMmZUc2drdGs4SU1oNjhSTXdPc0YyY3R5NGxtTW9qR2ZVWXgybW5feUtNTHMyUHlCQ3gwWXJPUkVqckdrcEY2Mi1RTC1iT0oybk1yQzhDdVlJd3kyUG85ZTRSejN3S2tYYTQxdGxmRlJQd241TDVvaG4tMTViRkktQThwS1Q4Slh1dmJ5NHVVOExGVW9qZUVaVHZTSzdVT2lUVS0tR2UzQlVyQU5OSlhONDlyMW5UQ3A5RFVLZUVfVUdmS2MzZ2NrbUJ6bFk0RTBHdW1iOGhUZFhDQzJTYUZGVV9IaQ?oc=5",
-      "source": "중앙신문",
-      "pubDate": "2026-10-09T02:05:40+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-14T01:13:34.511278+00:00"
-    },
-    {
-      "title": "[요즘투자]\"중국 '희토류 자석 족쇄' 끊는다\" BMW•르노 등 '희토류 0 전기차' 박차 - 저스트 이코노믹스",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ODdGcVNtblduNFJMVmt5bXBGOF9aMVctQTQ5RG9RaU5TMnpaUTNKYk1ZWGN3ODUxQjN6bVZjaW1LVjdQQ0Z6WlJxWEk1cGZ2dkxkQ19TTFZ3U0NJY1RB?oc=5",
-      "source": "저스트 이코노믹스",
-      "pubDate": "2026-10-09T01:52:00+00:00",
-      "mineralIds": [
-        "ree"
-      ],
-      "markets": [
-        {
-          "label": "EV·모터",
-          "evidence": "전기차"
-        }
-      ],
-      "stages": [
-        {
-          "label": "부품",
-          "evidence": "자석"
-        },
-        {
-          "label": "최종 수요",
-          "evidence": "전기차"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Nickel scores twice as Mountaineers shut out No. 20 BYU - WV Sports Nation",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlBuM3JOMkFjS0J6ZzZPZlAtdmlKMlFkbnVjZkc2NkFKYm1wWDZKaFg0RmlPOFN1RlVlbVFwY2pfWU5SYkNLVUx2NU4xdzBoUnI4X0VCa2VXd252S1p0TGpEMXBOQnZhQk5FZk9JZnBIckU0YW1jckVEU2Q1cnJGU3pySTRqbUVnTFQ4VDk4Yw?oc=5",
-      "source": "WV Sports Nation",
-      "pubDate": "2026-10-09T01:47:11+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Nickel’s 6th game-winning goal leads No. 16 WSOC past No. 20 BYU - The Daily Athenaeum",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQllRTU9PeENJNkRETUlELWk2Vk03Q3kzZ0lqNlduMTZUM3FWa1U4ZjBMMFFjdklES2ZaZ2hyRDNCY1l2ZHpDbUJYR1hxTWtsNGJpdVdQVWgtSUdPb01OZGhKQWpiMXVkMTFEYWhHT0dxX19HenRHMm55RHBNTUdLNHFBaDdMcXN4TE5RVE1wdDE5dlgxZ0tOSGFTZFVleHBqcTlNb0pnWEtPbDNRMjJ0aENDaF9nRm5uWk5Qb0hOd1pJdjBEUEFSUFQwTWVaNlladkp5b200RUhZWkF4U01vVzV4NGQwTTZkdzNNQnVmZXhrRzQ?oc=5",
-      "source": "The Daily Athenaeum",
-      "pubDate": "2026-10-09T01:43:00+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-12T01:20:11.152976+00:00"
-    },
-    {
-      "title": "International Graphite Seeks ASX Quotation for 62.5 Million Options - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTROcjJOT2M4NmN0UW1IRXM4TjlvN2FRa3hSZkpiYmtqMi1PNUtrN3ZMWGdVWTZ5ME1hSzFvWGJBY0tyTy00NXhJUnVQSWVCZDlhY3M1ei14eU1WWTV0R0tDLWtMSnV6OVduWW52eDl6V3ppNXhveGJNQlBRY28zOVdwY0dac0ZpQkRhZ19TTE9vWW1OUGNYU1ZBdHMyN3lVQk8tVzdIa2VHVGpZMTVYRkF6bGJqT1MwRkpzYlJBb2EyeVE5VXozN09WZWtEMk5aRFR1NVRJNGV2aU91OVpIZVJR?oc=5",
-      "source": "The Globe and Mail",
-      "pubDate": "2026-10-09T01:28:00+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "Copper futures slide over 1% as Fed minutes dampen demand. - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2NtRnBpSEZJSU5VOUVBSENYRy1PSjVBOThhamd1QUsxcmdGUUJhdEhLNmlWNVRzRlZ4UFJCajRORXhjeTRsZnpZcHp3SEFoV1VSOVhpTVEwdDlPZHN1OWZvZ244WGtfNFJMd24wTm5jOVdFd2Zvc2x3NlRpdmlwdmJCMkRuM2tUcmZxazlWSlkzVXJRQ2xfZGRRSGgyc0RBYzdqdENSMHdKMUZ6OG80?oc=5",
-      "source": "CME Group",
-      "pubDate": "2026-10-09T01:24:33+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "How New Jersey could land on a redesigned coin if the nickel goes the way of the penny - New Jersey 101.5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NWjhTaHctdkJMcHRlcFBIYTIxRzFwUnRMU3RJcGd0ek9BRmpFbU9KNEZCTjhPQXh6UGVuQ01uWGZMVmRaQWdWUWlYNnpjQUM3VXVXM2dYenQ5dw?oc=5",
-      "source": "New Jersey 101.5",
-      "pubDate": "2026-10-09T01:13:57+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Deepening Mutual Trust for Win-Win Outcomes and Exploring New Trends in the NdFeB Industry — SMM Visits Ningbo Nailiyu Magnetics Co., Ltd. - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSzNiSXNRWkwzaWY3MUVEbURzQ2FaUDFKV3JyQTdSVGZ6ZnhRSDRhUUxVU2d4VzVXdTBhN2s2WUwySzhzYjlYR2NWVXpNU1B3Zjl2eFhIdFg5RDJmaFhYRTJMRG5rNUpmcm9qWUNpWjltTWhDMVZIWXdxcTlTcnpyeG5ob1lSZHVuMGdCZVdBY3d1VXQ4YWFDRlJ3ZDRBcG4tcndyX2FMbVpRdlJkd0dSOXhHZXZlTFNQRk1hdXRZbWdhc3RBVFd1VFdQakdJdmZBQ0lRZHA2aEFYalJUTlN4aXZnbUpnRUFTeEYtSjJBdFFvV0MxTTV4RC1EQ3otSHhGdWRQNDZqLTNRUQ?oc=5",
-      "source": "Shanghai Metals Market",
-      "pubDate": "2026-10-09T01:11:00+00:00",
-      "mineralIds": [
-        "ree"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "부품",
-          "evidence": "Magnet"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Deepening Mutual Trust for Win-Win Outcomes and Exploring New Trends in the NdFeB Industry — SMM Visits Ningbo Nailiyu Magnetics Co., Ltd. - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS2hHSjd3WHNjejdTOUhfWGo1akxzc2hVczlEZFhma1hmdlctbmhUa3ZEV3Jld2loU3ZkUkhfeGtOYTZWYzN3eHdpSkp5cHI2MFIzYnYxb2doQ0dvY0hwYlFwR3E5ZUZ1amFSYndzRk8xNTFUdUhlYm16cUZ3VTN2TjM2QTdTV1UzWVVRVFE2c2lIYU9ZTF9BWlR1eE5Da01aLVYxZGFtU3ZuRkg2NWh5OV9MNV93eURYLVE3ZHl2czRqRUxra2IxY1NxSFkxejJmN0NWRkNmaXl4UThfaGhGckNoQWlnOFVpWmIxVWxENHR1dHVoNmdnWFFFT2FJR2xQcVhKU0lqdTBPQ3p3eFE?oc=5",
-      "source": "Shanghai Metals Market",
-      "pubDate": "2026-10-09T01:11:00+00:00",
-      "mineralIds": [
-        "ree"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "부품",
-          "evidence": "Magnet"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "ARECOMS tightens Congo’s cobalt export controls to shore up prices - Capmad",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW5KbjI2ZDVOTWdldkpNQ0JaRW9sWEFjWUR4V1pMeFdtR2lzelh4aVhHNUItdnpGQTR5REFtSHhHWmVKWjFZTHhOS3FxYTRTVWNURVlybGRJckhXamZkRDNJd2FTQXpRODk1M3ZLUkYxQTNEUFVyVUFDb0YwVVhKcTJyZ0puMjNWRmc5bm55Zkg5bHpWWUZBTw?oc=5",
-      "source": "Capmad",
-      "pubDate": "2026-10-09T01:10:00+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "ore"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "복잡해 보이는 화면을 구역별로 읽는 포켓페어 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMVNYSnVNZzhVUjhkM1RDY3kyOUVya3JLN2dkR1RaUmxuaG52c3dQS3o5ekdBTEpiWmRTSEFfd0FzVG1GOXU0WWZ0ZmxpSDJDLUZSNDdaaUZSRVp4U3kzbklFbnhrQ1RlaFFEeXd4Q0w3TUlRTUNIQ0VkVnItWE8xcGF5dFpzM0pwSEtLcTI5ZEhidkxmYTcwSUwyTGVrTzBrSHFFeEFwUGh4UjdzUWRxM2FFWFQzWUppMnhsUURwdE9lc0REblZQMV9RQXk2SDJGQWhhX3JDLWw0LXE4OWtSXzJVZlBMVEF1MF9wcA?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-09T01:07:59+00:00",
-      "mineralIds": [
-        "mn"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "페이지마다 다른 용어를 맞춰 읽는 라비와 숲속 친구들 1: 토토를 찾아서 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KNlBrdkxIcHE3Z0FBZDlfZi1Hd3VPeTZTTnJVa0xHTnBtN1F1bTVpckRQd3Z3UXlqVmFSTzRuQUJRaHhncURkcVFBQTF1S3VsdmlDaTdXcjdLV1BObTJUMm5mQUkyZFN6cWE5Zk9La2E1NGxRSzB0bk9Ydw?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-09T00:46:42+00:00",
-      "mineralIds": [
-        "ree"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Copper Mining in the Democratic Republic of the Congo - International Institute for Sustainable Development",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFFmaDlWZFNmVFFqSVQ2QXRCMXcxa1Fwd1h2RjZNNmdIMmZJVU8xQ2RmZF8ta3hyVVdTaGgwMUcwbklhRjV1SElSazNJcklBWFpWakNmSl9qOW16NWpCYklMN3lGRTdaRVJ4ZWFtZzR6MGFUd3JxeXpjdndtd0NXaEFhTTJDWUU?oc=5",
-      "source": "International Institute for Sustainable Development",
-      "pubDate": "2026-10-09T00:46:32+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "Mining"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "원료부터 소재까지···공급망 재편 나선 K배터리 - 시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HR0VzSU5ZbDY2MlRxSDEzS3kxajdwbkpJT3BzSWxHTmhwaXRZSzdRQ2NqOXJTY0hMVFNabEk0SGR3bjg2a0JKZ1d0NkVEOV9waExmZlpoSDlITFZiczFmenF4eHlheGMwS2k4enNfYW1CS043dmfSAXZBVV95cUxNR0dFc0lOWWw2NjJUcUgxM0t5MWo3cG5KSU9wc0lsR05ocGl0WUs3UUNjajlyU2NITFRTWmxJNEhkd244NmtCSmdXdDZFRDlfcGhMZmZaaEg5SExWYnMxZnpxeHh5YXhjMEtpOHpzX2FtQktON3Zn?oc=5",
-      "source": "시사저널e",
-      "pubDate": "2026-10-09T00:41:35+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "배터리"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-11T01:00:33.127405+00:00"
-    },
-    {
-      "title": "Copper Rocks groundbreaking - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjJCdVJjTHNfX2l1T29yYm9hVlJRRnIydF9KeDROZ3RsXzNoSlpUNHQwRHFWS1JERktLbV9fOHkzRzlGRGdoaTZBZ3N1anRNM25nWS1WSkkzVURXZ3o1WV9IT0N4QjJCYzM2M2JabC1HM3NFQ0hPVG80MVpuR2V5MmJsMDVmU3F1c1V4NEJHNFZFTmZ1ZjhpVFJSRWd2X3l2VXJjbnBnbXU?oc=5",
-      "source": "news8000.com",
-      "pubDate": "2026-10-09T00:04:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "La Crosse breaks ground for Copper Rocks development - WEAU",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTRtNlo5b2pXU2cxUVlkRXNDdVZrSnRRR3VfYVloN213QkJma2Q3a1ZtVlFUcEM4RlRmUzNTTG5BRGVMeWJpZEtMOXJTTFdYLURXdHE2MjQwamZ5V3RIbVZNMjcxWDI5clY5MHpYaUc4ZHdDYnd6QWdfMDN0MXVqV2t0SG5McGxP?oc=5",
-      "source": "WEAU",
-      "pubDate": "2026-10-08T23:35:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "With town dispute settled, Florence Copper opens new domestic mining production - Cronkite News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnBrUnlRUjBIQy1GdGdUMHZvMzFsU21IV1hBMXFDNVU2M0pfZ1RDME8ySl9lVk1tUU95Q1ZMczA5anJaeHctbmI3dW4zajU5eWY3UFNrTVdsOUxDTTRNc043SFM5Skl5a1N5SVdFaEtHSDRFa09Ga1RjMzlVS1BhUG9sTVc?oc=5",
-      "source": "Cronkite News",
-      "pubDate": "2026-10-08T23:13:19+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "mining"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "LFP부터 전고체까지…K배터리, ‘소재 공급망’ 다시 짠다 - 스트레이트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fV09KeTlHbVNnd2RHUGNtRy04TElvT2RCOV9qbWNrbWZ0QWIya2hnejlqcVl5TTJ4dTd5NWlDaEhPa1ZsMEFMeFpmTkY4ajUwUmxIY0hETU5aM05VNGhFWHdIVklaOUtpNUxNLXB2b01NdXNOaU1N0gF3QVVfeXFMTV9XT0p5OUdtU2d3ZEdQY21HLThMSW9PZEI5X2ptY2ttZnRBYjJraGd6OWpxWXlNMnh1N3k1aUNoSE9rVmwwQUx4WmZORjhqNTBSbEhjSERNTlozTlU0aEVYd0hWSVo5S2k1TE0tcHZvTU11c05pTU0?oc=5",
-      "source": "스트레이트뉴스",
-      "pubDate": "2026-10-08T23:02:38+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "배터리"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "$64M 'Copper Rocks' development to bring 247 homes to former La Crosse K-Mart site - WXOW",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeUVRR2FodVA0VnU0STk2Tk51ME96TTNyX3NrOVJIbkNKWWtBcFhwbnhDZE1VMWVnS0pPeVpYWWtMcTNCTUZURUw2Z1VrbHozN3dIUHc4NVRIa0podEVlR0tMVWVnWkpnM20zSy1PM3BIZTJRZzMtZDBmZ3RPRTBwdXVjWXFERGt1NXp6aF9DcE9CbGI1NUNSMFZtc2txY3pxM05uUnFsT29qU0l0bjZqdFVHMFR6SHZxZXYyT0huNVJBYlYweE5xb3Y3VXUxVFZneVhsMl9RTmZBVlBHWEdySjJmQkZRQV9aUmc3SGdmbnB1NDh6QVpvYg?oc=5",
-      "source": "WXOW",
-      "pubDate": "2026-10-08T22:50:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-12T01:20:11.152976+00:00"
-    },
-    {
-      "title": "Quenching Route Decides Whether Iron-Cobalt Alloy Bends or Breaks During Hot Rolling - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjdiOTdWdHluNk94bmx3TlRsZWtleEpPN1JWYVdCR1lZeEdBSDVRLVczQUVyb1hUQXVyWEx1QjJCdTN5MHlyV3R2TXp2bFpDLS1heUhqUE5tTGx5ZUZ4MXk1WXFNMHdZU0gtbG1kempHRGp0R25RTW1peU1HN2czSUo5MGY1cnNNaGV2LXkzeFcyRE1ETE1zcEhjejZ6Zk1JYmk5LTZOTnQ2U0RZNkE?oc=5",
-      "source": "Bioengineer.org",
-      "pubDate": "2026-10-08T22:43:37+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "East Fork Fire: Lithium-ion battery safety - KRXI",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlBBdC1iX1M5cVE5TDRwUHhpckZPanl1WVhScGlFTFNYd1RPbGtEb1FDQjZUNktnQ1BTSFhsSWVzc2QwVUZ5aFdROFlKY1F1b0tyTlJ6SFFJUTlKVml5RlMtUVBRc3Zocl9Jak9Lb01icWpxLVBjcTJHN1NBc3VzRXJpYTZiTHlXcFJ2aVBuclpJd3FCNWpXTlB6UDdsWWptd3hsMTc5Z0ltdXViYmtOVWZfU0w1X25wVEN6Mg?oc=5",
-      "source": "KRXI",
-      "pubDate": "2026-10-08T22:43:25+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Copper Rocks Groundbreaking Ceremony - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWxMY1d6UGk4dHNrSnVacVdOLXQyMFQzc0ZRR3FqR1VQMDBpVDFhZ1ZVU0Jla0N3U1ZPN1Q0RGZ0TVBLQzR5eDJHcmFiTEItbDN1TlprVXh0VmlTQ05EbkFqdGI4Y2FtZllkV3JmemVobmdyUEFrYXNOQ29KOG5WZDJNNDlDZjdwMmxQTGR0NW5Zcm9ZZy0yNERJWUEweW94eHNvS21SMGh3UDNSZkdVRzc5Rzg?oc=5",
-      "source": "news8000.com",
-      "pubDate": "2026-10-08T22:42:32+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Copper Rocks project breaks ground in La Crosse - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkV1cGZieGVmSFBIdkxrZ2owLUpwSkUzbzJQeGxMN3UtZnFqUldSSjVhSnpKZ0M0X3FEdEFUc25scU0wQ05MakFEMjl3TFVMRzdySDVUNF9fc043SjU4Vk8wWl9Cc0Z1ZFJyYXdYS2xoTGFHVk5GdTJDZ1hNZGR1RS1DMWlFRnYtX2dEaFJVZmRJV1RHUTNOZXBnUEhYNHRpbldNY25KVWg4NDQ1bDdoWDFhaFc5VGZINXJZck05bXRMd0Vic2c?oc=5",
-      "source": "news8000.com",
-      "pubDate": "2026-10-08T22:42:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Copper Rocks project breaks ground in La Crosse - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMUxueXBRa3FDOFNJTVFtVElUVENFcjBZOG5SODNpdDl4NDFRTGo0RmZIandsWEVBc2k1My00VFNGSjllb3FHZTE1WDVWcU5aNUdiV2FiLWphUkM0QVRzOGtxdVZrc2o4dTJibEtQM2R0anNqV25fejYya3lrZWZpQW5qRGhMT0ItWkV3Zks2MWNZUHRra2k3c3dOUmhiVWx0aHQ0d1JFQmhxeWJPd1kyMzg1aHhDdmRLVzBnUDlQY0VuM2JIQ0xTN09pa2Uwa1ItU0F5YlZlSndrbUVhNVc3amZ3?oc=5",
-      "source": "news8000.com",
-      "pubDate": "2026-10-08T22:42:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Man arrested after traveling through Nebraska with $250,000 in stolen copper, police say - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVUFQdXNub2oxVjc3ck9jV01Ycy1TNzdHdmpwMzFodHpmdjk3M0lNMTJlbjhLdXZDN0g4QzFZTjU1Ui1HT2lJZzBuWllnblBDRERWTjdOelowa2h2ZFdCcGotdTNreF9EazdEUjg4Q1NlVUsxX0ZpN1ZxaTFRNDVmQWc5TUhLdEQxUHJXRlZBbzZmUFJZTV8wR0FCM0haRElpa280aTdiNDZucTNlQ1AxOF9JcjNKUkpzZ2fSAc4BQVVfeXFMTWpWR0ZjTEcwa05lcUpUdW51MTluOGJkYlJ6QkU1RFV2YmJTMlRhMzNZM1VQVGc5cEZKdlpBQmJzbnk2NGhQZTctbHprT1Vnbmlpd3A3elRYc3JlMkM0S1d5cmlhZmZhYjhOYm5QbjBDOENtWXVna2VhaEY0d1MxSEQ3UUdTVTl1MEItcTY5VG81b0NVMXFCeHBHRGtwdE4yR2FobEY4RTd2Q2lHVUtVTmZEOGxwMjdiRXcyR1RaV0FjRktLdF85a1hjQXdYYWc?oc=5",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "pubDate": "2026-10-08T22:40:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "리사, 루브르를 물들인 루이비통 라일락 러플 톱…복고풍 우아함의 극치[K-EYES] - 스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55bnVDZDdKMHZnekhDZzhDSDBNVmtla05aZjNEUXlkb3AwakFjMVRla3NuWGJVV2Q5RVd4WUREZGxVaHB1V1FxVktjRm9val81RFJKaWM3eU1UNm9ucWxPRjA0NjUtR2dkWWlCU0k0UGVCOXRx?oc=5",
-      "source": "스타뉴스",
-      "pubDate": "2026-10-08T22:32:00+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Indonesia Vows to Protect Investment at Launch of Battery, Solar, Aluminum Plants - The China-Global South Project",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTklUTUI2NDl2MXJ1SUZ6eU52YmhzaUxlSHJndFhlS1JTWDl1T1k5RmZGc0VPMk11Z2l4bklEQTZjX1dLdmhraHdEal9sT04ybTc2X29iUDZIVU9yMFJyVUlQRkJSTUlrSllHNG1ZMzBGb1MzZzZjcjFQUzMxbTd4N01TckpIYkc5b0dIUVlkS18?oc=5",
-      "source": "The China-Global South Project",
-      "pubDate": "2026-10-08T22:30:32+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "Battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Herfurth and Nickel power Mountaineers to win over No. 20 BYU - WTRF",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0JuMHhCTzB0aVlWaklwSHREdjg5cHNSVEcwdXBKd1dveWVPaGVOM1I0bkZ1VHlVNHhNZ2h1emhTeVYxNVNwM0VqQW5aNE5MZVRMOER2c2hqaWFVR19qb2tBVjJPRGNEYkt6My02emdPaFZuU3FBSl9rbFdJeUMtVWtSNHNVSXJBcmtCQUhjSHEweWQwYWoyWlVpajE0Skk1aVJGcmUzONIBpwFBVV95cUxON0JuMHhCTzB0aVlWaklwSHREdjg5cHNSVEcwdXBKd1dveWVPaGVOM1I0bkZ1VHlVNHhNZ2h1emhTeVYxNVNwM0VqQW5aNE5MZVRMOER2c2hqaWFVR19qb2tBVjJPRGNEYkt6My02emdPaFZuU3FBSl9rbFdJeUMtVWtSNHNVSXJBcmtCQUhjSHEweWQwYWoyWlVpajE0Skk1aVJGcmUzOA?oc=5",
-      "source": "WTRF",
-      "pubDate": "2026-10-08T22:28:46+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Nickel Industries Price Target Cut 4.5% to A$1.05/Share by UBS - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2dTM2VNa084UmxGQ01yTUktVW1qTUZlNXV6Vm1CclhEYXdBc194VS1kUU54QnlyY1liSndvYkJfczFRMF9rQTRaa1N5WG8xTkllZ0xiQ2RnS1dPaFpWZzhsS0JDQlVOVXZOOUo4a3hLaDcwSldOcmtpOWZmVFdnQ0JIOU03UEl4RUQ3UjE5RmNTOE0?oc=5",
-      "source": "Moomoo",
-      "pubDate": "2026-10-08T22:27:00+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "Chemists uncover the true active surface of nickel catalysts - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EUGlneHc5QV9FRjRmOGNaT0FDbklBLWVYck82MnI4S19kUW9GYk5tajhWTlUxc1diNTZvVzJ6UXhGSzEyeVMyMlhhRE5vdnpkbzNwb1FNN3lKbG9kSUlTNEcxN29yaDk5WVBpcG1UTDdEaUZYMGhvOHFfWQ?oc=5",
-      "source": "Phys.org",
-      "pubDate": "2026-10-08T22:00:07+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [
-        {
-          "label": "촉매·정유",
-          "evidence": "catalyst"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Getty Copper Closes Flow-Through Private Placement Financing - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3Vhb2xFbGdaSEdBR2xRTlA3aTM2amJidzRXOVEzbnpCckdyQW90cG82ejRwNW5ZeUlET0ZWUGQ0bDRuYmJqRDlLY3hGMmJtbkozX3QtRHRQY3lwZkZteTFTazFtc0NxVm5qUDVNWjBOdHhaVkZnWEpKSXVENGtZT09LZHN3LVN0dzF2Z3VaRDNWSXlOUU1sa1dTYWNrUQ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "2026-10-08T22:00:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-12T01:20:11.152976+00:00"
-    },
-    {
-      "title": "Bacteria DNA Has Evolved To Withstand Copper | Newswise - Newswise",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNi1MRlZibVRkZTNBQmo2Q21EMDBBTzR3TkU4dDI4M0t5czdaNFltTGxFT1hQLWtoZ2lJa040d2hkamlLTTk1UVJKamt4Y0hXVGVjLWdad0tWUlhKcWhidTR3c0RyejZhS2V2UDQ1UmV3YWEyTGVaNThfTm96OVdHYXljQ1NuSk9xUUlEWHRRRGZkTHVsRmJYdDdPTFJSUdIBngFBVV95cUxQNi1MRlZibVRkZTNBQmo2Q21EMDBBTzR3TkU4dDI4M0t5czdaNFltTGxFT1hQLWtoZ2lJa040d2hkamlLTTk1UVJKamt4Y0hXVGVjLWdad0tWUlhKcWhidTR3c0RyejZhS2V2UDQ1UmV3YWEyTGVaNThfTm96OVdHYXljQ1NuSk9xUUlEWHRRRGZkTHVsRmJYdDdPTFJSUQ?oc=5",
-      "source": "Newswise",
-      "pubDate": "2026-10-08T21:40:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-14T01:13:34.511278+00:00"
-    },
-    {
-      "title": "구리시, 시 승격 40주년 맞아 ‘제41회 구리시민의 날’ 성료 - 정도일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56YUtzc0pZcTg2WmE0UU0yeEZYZGVBdWJudUxMWFVXWjVjUDI1TGdCdHpGVFFnZC10cWZ6bFh4T29TUmRyb0QtMmlfbDVjeFJQNkpPQ0llLWdRMzY3S21YamV2VWE?oc=5",
-      "source": "정도일보",
-      "pubDate": "2026-10-08T21:38:30+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Fire officials warn of lithium-ion battery fire risks - KOTA Territory News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHpERzJybi1qNG41a0xuY2lXS2xtVkpZaEpDOEZzdGNsYUwzeGt5ZHY3ZXRrd1NhNlUwaFY2YWZVVmhjcTZDUjVrX2kzNGdxa25CRkQ5OE5OX3pKSGdmMy1ORWNDMXYyTmdORVl4d1BhRUN3RW5Zd0FXcGpjT1NvRk5fSG9md2wxaEdIT0d30gGiAUFVX3lxTFBoYVUwdVZpN1VjbnduYlptZ3dMY01QT0JQN0hpMnFqcExhQnZqUWMteFNNeS1FdnhOU1NxeDEwQnB0dkNUWHJjLVRiYUdTWlhIVW5QYlBuMmRWY01abnJBdVlKSVpHTG1mV3J6eHlKclcxNFRJYUJHbU5KTUlRU2VMWHNZbEE2Tm5wcEZCWkFaaXdoNi1mQW1qV3Q3TkV3cWNNUQ?oc=5",
-      "source": "KOTA Territory News",
-      "pubDate": "2026-10-08T21:16:00+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Fire officials warn of lithium-ion battery fire risks - Dakota News Now",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1dUUzdGdk1sSmFIUWE3U0U4ekRyeXRXOWhrRjVQYWozV0tTdHZjc0Jjd09SSWpCRXdycE1JbVpTa0t4LTYxRUd5bG1GcFpvYllNUG5pMDQ4WVdCamh0U0ZPM2hpbWpUMXZreTlJMS1sOUxvSDRRa0ZzVXNmYjUtQzFSd25lOHBVUmF5cDlia0xhWXdWQmZF0gGrAUFVX3lxTE4wd1ZWQjZWcTI0SXR4eTNoWGlySDNBQ1Y1NTZXX3lhRS1NWTBfeFdSLURybFVUNUZPOUR4Q1hVU082NDFmTmpIY1NiVmRVWlFlNW1WOE42VFFnb3hpSmM2cmNTQ081Y1R0Sl9OWDRDM2NHaHUzTzdKNlBTcTFaXzJTa0JRQ25LVTNhN05tU0ZfLVVoeWpHRFJzY2NaajZpa2g1ZjNobGRveTFwOA?oc=5",
-      "source": "Dakota News Now",
-      "pubDate": "2026-10-08T21:16:00+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-16T00:24:59.921247+00:00"
-    },
-    {
-      "title": "DNR says they will do a supplemental EIS for NewRange Copper Nickel’s project - WDIO.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUlFMnQxbktvUXpjVDd1ZkVLX3YtUVVJaHVIWDVKdkUxOGVvdDhTUGltUnFuTjMzbDlGNWpCcmpEOVo4Y1c5UDRJQXJsdjdlRVNYNFRmZXJLOU5xYW1RWlNENzRwbTB0MlFnMlR2Z2tFdG9Bc2Y3MnVKTUJDa3hQS1NVeUU4NURMZ055SlZ0ZmVKcEFKVi1QTk5aNmJCc1hobmJyOUNwWFg4S1p6LWJ3?oc=5",
-      "source": "WDIO.com",
-      "pubDate": "2026-10-08T21:05:40+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "A 19,000-megawatt air-cooled reactor in Idaho fires 80-millisecond pulses into used fuel rods to make them fail on purpose, and 192 neutron detectors watch the uranium move inside the sealed steel capsule through a 2.75-inch slot in the graphite, 1,000 times - Autonocion.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Za0txYlRva3E2S20tQUlzRHR4U3Q1YVV1V3B0T0lvSHZEeHhBSG5Pakt5T2ptOGgxMHNaXzQzX2JQclRFYU90amJoTUVWRG0wSVF4S2IyWjVzMFItOU5FMWs4Um1SN2xfRHpWREJuaUlXTHRPZGVxNXRISEEzc3M?oc=5",
-      "source": "Autonocion.com",
-      "pubDate": "2026-10-08T21:00:42+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [
-        {
-          "label": "철강",
-          "evidence": "steel"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "The Real ‘Nickel Boys’: How Researchers Are Preserving Stories of Black Boys Who Died in State Custody - The Root",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEZxUzhTbWdrRnlMbFdzOXZSa2xoVC1qQk11SnJyVFVsSnZCbHZtb2ViX2U5c2RqVFhmOHJ2TGlLNHgtSEVseTJLZGo2czhkVmoxOTlDNUI4YXVBWU0xS3RBNXNod2NOMnRHTWdfQnI1MENpR0ZMVEpnODhJMzB4V2R0Z0ZUV3BpcTk1ejdRemo4M3c?oc=5",
-      "source": "The Root",
-      "pubDate": "2026-10-08T20:57:19+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Ulster County copper landline phone survey deadline extended to Oct. 19 - Daily Freeman",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVEyQ0RjQUZwZEJ4ajRGT0gyWk5LcEF2S3NtOHE2ZWJHWkpLclpDaGc1QU1SeUd3aVZqTkY4eTYtdWF4T1hqQjBZbjZtVjdBOXBfZGJVTU1PSDVzbi0tVnZPNlpYdWd2SE5XVzVpWHZESEFjN3Z0NS1DU3pYaHJrTUIwRzVkOVZIdjdTd0pELW9KdFZ0dzdLaWVuMjh5MlpmYXIybm5Tb0pneW1KU1RkTg?oc=5",
-      "source": "Daily Freeman",
-      "pubDate": "2026-10-08T20:47:22+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "AI data center buildout could lead to copper shortages - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BZnBRMVJub1BPRUNjeFRpTkFJOVYyUFpJcTNBa2Z5cnhJdG95SHNsVDJQZ3EwcUxZZlhGWGZ6Ym8taUM5UUNNdFY0RU1UcXlqcHN5NEIzNnFkdXc?oc=5",
-      "source": "Fox Business",
-      "pubDate": "2026-10-08T20:41:27+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Belmonteite: New Arsenate Mineral Discovered in Italy’s Historic Manganese Mines - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejdVQzJxRGI5U1RZQ1ppOGNhWkFoUzY3ZmxOd1p2M1pCdENGeHN5S05mS0l6SGVPNllreGI0VEpBTm9fUzRRYmJONF9EOHlmVnF6MVJyREdsQllKaFc1Qk1tMGdjMTRLNHViYUhVTzllVEQwV1dWZ2ZEelpfemlvZTlGVndEbUdhakljUXJiZkRiMFpFd1BtTV9MNmhPWXlpdnpJekln?oc=5",
-      "source": "Bioengineer.org",
-      "pubDate": "2026-10-08T20:28:03+00:00",
-      "mineralIds": [
-        "mn"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Teamwork Powers 46 Level Upgrade - Resolution Copper mine",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dlVOOVhPY21vdmprUkgyV0kyaUg2Rzh3UUY2OU9Ha2tpamxxN1NUdzNTUElpa2dkZnUzSmx2M0YzTE5EVkxhRDRVbER1Z0xYXzlad2d5LU1saFVQTXRuZVJ0X0pqM1RfUzd6ZHJOVQ?oc=5",
-      "source": "Resolution Copper mine",
-      "pubDate": "2026-10-08T20:09:40+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "mine"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Officials warn that lithium-ion batteries and electrical components can overheat and ignite. - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWxzMi1rU0hQRml2cGVBOFZ5Nk9MNHVsVmRWeXZDUUFrVHd4VUxtMU8tbkUwYUJZbEEwSUZkUTRLRWNDZ2RvbkxPOHpXR0JoeHlYTHlMTW5iRFVsdXdDT25pWHFrNzJnVGU3WGFCRk5mdVNTT2dFSXg3WEk1MFp6NFA0QW1YQndwZEdlaUZ5dHkwZVlLSTBZQmVzVXVyYmpZTi1LMWxsUEVWTUNrZTFPT01DazN4RHctZElfOXE0SzlMMDExRUxJd09qSzc0LVFnRmNGTzB0dHlkUQ?oc=5",
-      "source": "Facebook",
-      "pubDate": "2026-10-08T19:58:19+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "batteries"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-12T01:20:11.152976+00:00"
-    },
-    {
-      "title": "깊게 또는 얕게, 올가을엔 넥라인에 집중하세요 - 우먼센스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hR2h5cjhqRU90Ym9rUjJCWkl5U2hWeTMxZ2lFdUxhNmVFakRlRm1XbHV4TnhVbzdyWU8wOENxSDMtS1RvZVNkQnVkQUlrb3pvYnVQanFPRTFmZmctV3ZpcFV2SDlfb3lvSVJBU0Vodko?oc=5",
-      "source": "우먼센스",
-      "pubDate": "2026-10-08T19:55:00+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-11T01:00:33.127405+00:00"
-    },
-    {
-      "title": "OBITUARY: Nathan Nickel - Rutherford Source",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QWkZXU1dQdmluSHphRTRuSHNDSU9ad2ZRdTRWaGdOcENXWkpRckNmNDlJTm83dHBWSWxJdjI2S0RjaWh6WXJPWWc0bURsOER5bU9kX2huVjYtYjYzSXZ6am1n?oc=5",
-      "source": "Rutherford Source",
-      "pubDate": "2026-10-08T19:11:47+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "MMG Challenges EU Antitrust Case Against $500 Million Nickel Deal - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWtmaHRIajhLZ2ZaVDdDdUdkYU5jenNxUlhjeGUxWGQyelA0MkxWSDRZbktYMm84WHVEU25nTmZPMU5LVlJlNm9wcE1CNTBnVlZZY0tvNmlRcEpNOHJDdEYzaGdrYnM2b1pJQUU3ME1vZE5qc0t0UVAtVFBlY3ZmNVRsTWJhbWdaNW1ENFZPa1FJNmVJYU50UzhsYS1zejg?oc=5",
-      "source": "PYMNTS.com",
-      "pubDate": "2026-10-08T19:01:54+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "카지노 잭팟 후기 누적 표시가 쓰이는 기능 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1RtSkRtVXQ3WXI1WV9MWXI0Skdfb2NZLWRWQ0gtNWZSdGFUbWFMVmdCSjZMVHFoakhyMVlGbjFuQk5ULWN5cFZhMU82TVpxbkJfZXpUYXk1MTg0WGNRbm9wM2VZaUgydDk1MGdPX3ZXSF9jLXBFZG82ZlU4aGdjeXMxWjNuMWp3UW1PZjlqTFE2VHM1N2dEU2xmWlExcDVNaDh2eS1hYnE?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-08T18:58:59+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "BHP Sells Kambalda Nickel Concentrator to Gold Fields - Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lZjh1Y2h1Q3dwSWdGWmdXNXAtbGR4bmZSdHFEdGdhNDE5V3dTNG9ONUxaSGpHLTFya1pDYVJGZTZTNlpyNi01aE9NUUZNUzI1NTFkM2h2RllyZWtMUXRMNUVTeHd3ZHN2QWFkYmRrTlQ4emc?oc=5",
-      "source": "Investing News Network",
-      "pubDate": "2026-10-08T18:58:00+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Costco Is Quietly Selling One of Big Agnes’s Coolest Tents for Well Below Retail - Gear Patrol",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFlibmxpWExydUhmYnNqVGt3QkQyZFdYTzlsRkNpbE9wcXRma1N0dld0aEpjV0hKVndySlBveEdzVW94NXRzcERQYlVJYTlsak5tbVd0VWFFQ1JDUTc3dklOaXM0cWVGSHBFamRueXdtN0V4OVh6b09VUTk1Q0JFSERPNlpYVVZwZDN6ZFdnbnhGSmFzR0lmUQ?oc=5",
-      "source": "Gear Patrol",
-      "pubDate": "2026-10-08T18:57:40+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Thieves target Inova at Landmark construction site for copper wire - Alexandria Now",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXhZZ01HcUpCR2x3RW9qSU1pVGNuOVJ2dEdMQldwQzdyTjFYZVdtcFlqbmxEb1kxUVk4RFpsUlJhM1BkRWpUZGdfVTlUTm53ZkJiS1IxNVBqUTlhM3FnXzFhZWkwVFpGaGVfMlFxd3Q0SmRMV1MyYURWa1V3ZkR2Y1RLTV9ycER3VkdpVUlHR3Z6MVF3Qk5hSTBpSjlRRVRQVzNF?oc=5",
-      "source": "Alexandria Now",
-      "pubDate": "2026-10-08T18:45:27+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "새로 추가된 버튼이 궁금한 분을 위한 압축팩 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjBXY1QyNGtXc25CVG9TZm5NV2FpZEpNUmJtTV93dnpwam1LSW9IZTVfc0ROTmRBS0dIaS1KSWR5ZmZLUExCVk4zQmpRdDNySE1wdkQyQ3NDRm5GQ1NqRldoN0xYZktUQjJHb0xEWmViOFc2eVRRRmRNRHNQR1ZEaUdtQ3JNTzN0Xy1weG1QRk5tRGRlOGVONnRIVTc1QzBka2EyM1U4ZmJWeGNhLXp3dWVjRQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-08T18:40:39+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Nickel catalyst unlocks hard-to-make β-amino alcohols - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PSDNobldELXpTb2NUN1hvaGcwZHBSSFNXeUo5MDRQbDE2a0tJWHI3dkNDUDZFc0pvdkRiS0tjSWwxRDVKQWFxUzlxZWY1XzY4NmtmeDNOSE5jdUp4ZHBwWnBNVG9UY3lsMlptSDNYeTQwN3dXTVpzWldB?oc=5",
-      "source": "Phys.org",
-      "pubDate": "2026-10-08T18:40:01+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [
-        {
-          "label": "촉매·정유",
-          "evidence": "catalyst"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Quebec Phosphoric Acid Passes Lithium Iron Phosphate Test - Environment+Energy Leader",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTVqTVJTVXNPUFJYVHlLeFBYNU8zeWlJejR4Nm9tNzFxajB5RnhMQUVUZ3ZKQ2FrRHhrZk4xdVRkSmQza284dXdYem9fa2tzSlNsRTFMVTZENDVEdjFrT19SUGJSOHZXcFR5c2lSOHNBbXM5MG9ONDN6M3JhMXRjSkFQRzNlTTg2VnF2UEpUUElzSm4yVjdLSWRyN0Fpc0JtY1dzTXUzSVBISEotUkUxXzlB?oc=5",
-      "source": "Environment+Energy Leader",
-      "pubDate": "2026-10-08T18:00:00+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Copper Gains with Other Metals as China Returns in Positive Mood - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUd3RGg1QzhpTWwzcUg5ZVZEeDlUaldmd3NyRl83dGtSRTQ1WlJHVVVpYU53WjJEU3lyTnBuT2xsQVVBYkNOQXllQTBWNk85cjFPdjlpTWRFTjB4cUROcW91TzJNZkpCNWpaNlVpUnpaRHdPaGJINW1hcmFSZWkzMWN1X2MyazNzV0Q3ZVZTazhocXo2NVVpdERGY2p0Z1FPbUN0SkJmQ1BKUnhNTGo0UjJZRmFSdw?oc=5",
-      "source": "Bloomberg.com",
-      "pubDate": "2026-10-08T17:58:35+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "China’s BYD considering lithium battery plant in Argentina, foreign minister says - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdUdmb0p6LXJEb0xVY1dHODBlY1I1al9FLUlQQ2RkalhQQmRUN1pUTmtsajJRT2tMSDJFRzRtRG1lcDBqUWpmVTdvNmk2cWU1bXNuN21oMDBtU2RxLTVRR3dtTzhlX0FES3ZuS2dCeTV2a0pnQ0E1ckxpTWtKVmhNRlp1X2M0Nmw4bndCSlMtRE0wRmxtUlBQQ0poOVVicVBjX2dJZnAxd0tCZm40aFNtbzZmbkJFV2M3ekRKZGpGZFc4ZFJ3SEZpQzV3U0NVRTjSAc8BQVVfeXFMTVpGMFRuZU5FbVoydzRUd1hGeEhHVU82VEtBa0FTUFlndXRoclZlRkt6czBCdU02dkhIbndvV1NiQzBjSk5xQlN4dDM0OUlrUU9tU18zWlk3TVlnNEVXcDdDbjBlb1F0VFZ1RzM2aEJ3SWp2bHNiN2M5YTg3SzlZMkplSzlxU0dUUTJQa1ZqeXBnSnZPSUpfRGotcEtWSmVaZWplU2Rlc2xKYnA1ZGRybzdudzFNRnBjRW9nbnNUVVpwdGNSTkgzMHY4RG1Xd25V?oc=5",
-      "source": "South China Morning Post",
-      "pubDate": "2026-10-08T17:52:55+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "US opens first lithium plant in 50 years, targets 3,000 tons annually - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sSzhOTENIMGZjdmFtU1NTeU03REp2RjZQOHo4Zi1ZVTMyTkRxVnBEZTlkakUtNmpXZ010X19pN3AtOWNXdk1YS2V1ZFBZLVpUVlk5NUR2OHdhSHlRN2M0LVcydTVicjZYVkZMc2swQTBMRVJuVFRjZkx3?oc=5",
-      "source": "Interesting Engineering",
-      "pubDate": "2026-10-08T17:51:00+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City' - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMi5glBVV95cUxQdjg3NnRfM1ByYTRFSWh1U3lySEJOSnNYQXEzRzRwd3NZMnhNSEtVVFpOdzcwS1Y3c0NHUS00d2FfVG5pQkVndGFVVzlxUWM1WEJrTGplLWNwa216LTR3ejB2ZWVnS2xiSDV1UEdTTFdXQmM0aFZtbjg0bFo2MTl4aHg3eUlMNVF0bEJOdWJzZXRLSVJiRmo5ZFJRSkN2SVNtbDF2LWNGeHpNellsMGdUQ21QaTBPVGVHRmplMkFvUFVMN3JxejdTMEIySnBnWFk3UjRHZGFYRno2Vkt6WnJjTjZTWnp3eGdXenVFSG5lTnhvbDE3WkdqQ1NJMU83bHpHcFlsc3gxd2VsbHhPY2IxVEc0Z1VqVmNUd1A5UEhtQm5IUkpxZVNRVlVXSGJSblNLeW9YM0VRMmZabkl4M2M0TFdzV3J2QXZaWFRzcmVpbHpwaU9fLWt3WjVla0tWYWpuWTBzVWlRMmtBZDd4WnVMck5QVHhGanQ2eWIzSTNlVXhwTDI1WmI3QjhqVERnUmwwa0lBNkZvT2xGVkFNa3VqcVNwcHo5REJlUTNYam0ycnZrZDJQR2FUMjU1ODZBRE1RTXR2a0xSVUVCTHZnNzBLUmw5VVBpbGxBYVVSZERSNkNpakxtbHNsbF9rLTdCZm9MOXBhSks0ekgzUkVDeEtQSncyYUNaX0Z2M3R5UmJSTl9EWVk3SmFGYndIa1NkdFJiNUFTc0Q1M3lYeXRrczltT0pPckp6aks3cnRReWNBeVNpdVBxMmRQb2pXUUJ5TVRsUlhxdXp1MXVnMmJDRDBNRzRpUWtRcHVyUDhKSXUtUHFGdTNNQ1hjQ0pFcHE1VE9UNFkxWE8tYnhBSUc4THl5dWJFdzJZcXVjd3Q2dnlvSnRsR2psVGwxdlc2MTJTSUxEYUZ3UHlhV1EyZ1V5MC1aY2pTSnB6OUJJbVpIOGwwNUVacko2MTZRb1dpN3NjYVhZeThoWkZEVEhIV29zd0JOVHlrMTVVenB1aVdlLWJuSzFiN0ZkM2l2alM0V3lxWkE3UmJaSlJmcmRPTHNzUl90YXdMcE5xWFRKVGlDMzZLUGxzM1Y4RmZZV3ZpMHdaUjdzRjVpWW5aQVpSQTRsM1RUV19kR2pqMjhXMFJpTk1mbGpRRV9nNUpQaVpEZWJtcHlqY0ZGOHpjcHEzdUNmYmcwQ1lRSzhlcFJJMFNld3RYaWw5c3F6LUpZX28xYnNWLWhyTlZiR2lpRTR4N21LMF9UUWR4WGtsRlJmdFJmYWZpLURkTWVGNXpmazlGOXFDSzdyR29aV2N6RlNKU1kwem5INFhwOHNnUjFVeEc3M0VWQWR2eDNzdndOd0tGQ1VDbHZQa3htc0tpT0w4c1FZVk4wdDdPN2F5N05TMjBhWUpCd2NWendQWVhObkcxM3pTVXNMcXQ0b3NBRWJTNGFkcHRYTk92UlBhb1lDWWRIVnNDRlA5T3NseTByNi1vNFhhYmV3ajc5ODJ0UHFOYWlidmdFVmlrRTdVR0ZuVzdCSFdZZHpNZHpPX0RkdkVTWGxUdjBDN3BWYjFMQ2pWQndnbDVWZmUteW1kemxqejBGSnpWQXUyNEMyd0pNVFQ1eVhuVER5SUlXMXFuV05WOTVFeHpOcmVJaVFycjhXaUNTQ0lZbVoybl80SEE?oc=5",
-      "source": "ABC7 Los Angeles",
-      "pubDate": "2026-10-08T17:48:53+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Anglo American threatens to close Brazilian nickel operation if EU blocks sale to MMG - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNkhadXFUTVp4eGtTN2VRZzhQV0dCOVRJSHhCdEpIdjhwM0RpNHFCOFM4aUY0STlPWVpUYUdmM1k2VkRaZm4talRycFdwREN3R21HRHY5MzE0WUxWcVE0eUpFSXo4dEZ6T3NsLVdYbENsR1pHa25JUWp6QkFZY2xMTWd1c0R5NFBhaDVtUEoySUYwUWlCRXp1aHFpMzFJcFI5dnkzMlJrUlRjT0R0VWN1NmtabVgzR0lQVmNORHBB?oc=5",
-      "source": "Kitco",
-      "pubDate": "2026-10-08T17:43:19+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "Westwater Resources, Inc. Continues Development of Kellyton Graphite Plant in Central Alabama - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa0dHWU1RQTliME1sYTRpMG5PbkpIcXNKc2NWVmE1aC1zLVdkczNJaC1IbndqSldsOTlub1BJbmpZRzBSSWtja3lBMFZuWVdUa21CQmV2dVltaEpvVnpOdlo5Y1Y4V2RXalVCdmZvemN0RGVVMnI5cGxWdEhjZmg2R3lnRlc5blFtS1N3Z0w0ZjN0T1lGY3RPbzJzRU9ZVFBiUS03RmtRZlhlZGNyRnhhTFNwaEQyZWNJUjZKMDN0UGo2ejQxdTltUWNDS0phVXY3UjRZbHkzZnRqYVpv?oc=5",
-      "source": "marketscreener.com",
-      "pubDate": "2026-10-08T17:41:00+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-11T01:00:33.127405+00:00"
-    },
-    {
-      "title": "Fire Prevention Month: Colorado Springs firefighters warn of lithium-ion battery dangers after house fire - KKTV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTERzME5IZGIydXk2R1VPUXc3WkJSZy1zdzJnSGNLNnpXaTZkRDFyNUMyR3NxSS1LMTVPRVRraDl3YUhtV3F6MF95ZkJ1RGg5aHptYXZvWmFjM2pBX1VTc1hVY1UxbEpRejRXSTNNMkRTc19rZm1ZSW1qTnd0MHJ4cTJBMkI1UWRzYjByZ2RVeTMzQ0lzTjQyYzIwZ2dzczN1ejZXLUtnQlVTQmNsMEFGZGY0czZiYlJOemt2YVV0YTdVWjZKOThQdFdBYzNQVUnSAeMBQVVfeXFMTkllak5CbHhpa0lTNmgtZEpWclhrQzQwYUoyTUFHb0VsdzJBbU5RMVV6ZnROWmY4ZUo0VzBFQ0JBak1qSWFrUnZFN3B5MXJoUWdKQmNtbzRZblIwbzRJc2xjQ1p6NFZkdG9rR0tHd3Y0MFd1a2ZXUkpQM0l3SDJtTW9RT0ozYUpMY2tZWTExdVhCVmJ4dmFmNU5uQkRaZ0RUaHJMRU1wS01DLWFsRjF5MWx5c2l2QUgxMWRRbUxzOEdBbFBiNmdlX0hrcXJoTVJkVlJhbG9fRmNvX285VWV2VktyQnc?oc=5",
-      "source": "KKTV",
-      "pubDate": "2026-10-08T17:40:00+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Copper Rocks groundbreaking - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGpGUGZ3UTh4dXdiRHJwN2hETFBmUTZ3R0IxRzZVZWJyb29SRmV1TzMxMmFYckNEM2h0Y3I5MkluTFhhQ1N2Y081dVRDUk0xR3B4OVBSS29NT1d1SHNjMkpRSFpTblVwT1lzUGo0WWNCMjlaLVRkamhsSnZwQW9Ed21vWHZkeVVIbXZSMnRpU1F1SkVrQk1YbVJCRG1XZU1NcDV2V2VueFk?oc=5",
-      "source": "news8000.com",
-      "pubDate": "2026-10-08T17:39:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "5센트 니켈 동전 만드는 데 13센트…美, 니켈 재료 바꿔 비용 절감 추진 - 시애틀코리안데일리",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Da1RrOHU5YWxJa3l1ejdNbzh5aVA5Mi1iOWtKUVRNU2ZwWHY0N3BTVVd4Q0FHRXh2QXY5T285Q2Vjbzh2c1E1VTFJQTNaMFpldWN3RDFScXVqU3hzSWlOMFRpa2VVYVlCbEtLWnFZUdIBc0FVX3lxTFA1VTRQVVNoU1J1WkJnSUJ3Q29mTjhpVDltZUN3T2hoXzkxenZudmRrM1lBWDNPT0Nxc1dQSmw1ME9lcU94YXdqUGY3SmI3bzJfVEZicnBPM2loWWEzSjVkcm1iWWtpU1hVVnhRbXN1WjFiNVE?oc=5",
-      "source": "시애틀코리안데일리",
-      "pubDate": "2026-10-08T17:26:52+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "5센트 니켈 동전 만드는 데 13센트…美, 니켈 재료 바꿔 비용 절감 추진 - 시애틀코리안데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00QTZtM01YaXIzZmtQTC1MOHpza0RXaHZtdWRfdVBwY0FraDg1Vk5DczRYSk9TZmRUMlNqN1ljcGZGdElwRDhuTGR0RUxrbnhTajFLNUpDMW1ndVhYR25HQ0RROV9sS0FiZXhnUDRNdVnSAXNBVV95cUxQNVU0UFVTaFNSdVpCZ0lCd0NvZk44aVQ5bWVDd09oaF85MXp2bnZkazNZQVgzT09DcXNXUEpsNTBPZXFPeGF3alBmN0piN28yX1RGYnJwTzNpaFlhM0o1ZHJtYllraVNYVVZ4UW1zdVoxYjVR?oc=5",
-      "source": "시애틀코리안데일리",
-      "pubDate": "2026-10-08T17:26:52+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-11T01:00:33.127405+00:00"
-    },
-    {
-      "title": "LITHIUM-ION BATTERIES CAUSING MORE FIRES - KKTV",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUJkV19RMDBjZExMNGdKM2dna1dCVDRlcVZqM0JkQ0dHZ2IyTWhNN2hDZk1QYzdfbjQxY0FodDdYTThmek1zYU5YOFVhZkFUcW1UWjRHeXM0MTBobjBIeWVSbEpLWmN5OW5COXJOQ2pQTE5kSUV3UUVRNWNJaWlFUGcwQ3lvdw?oc=5",
-      "source": "KKTV",
-      "pubDate": "2026-10-08T17:24:31+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "BATTERIES"
-        }
-      ],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "ORE"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "BHP Group (ASX:BHP) Exits Kambalda Nickel Concentrator】【”】【 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWoxdWhVeGNyNzFXOEFRSnZIOVBiMnU1SnBWZ0RHTGVGWE5HbTdhRUxVYUoxd3UzeXlSeVc0bGRvcFhZbW5DODVUb3c3T2hZZXE1SGcwYXZVN3lwa3NrZmI0clBzSFBuUDF3U0tldkMwRXV5WVRJcnpvVExHZWNtNW5Bc2QzR1pMclJyMzROaGVkWEE0M2h1TQ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "2026-10-08T17:11:56+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Nickel City Cluster Dog Show returns Oct. 8 - WGRZ",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnBtUzFsTUJpOFo4dE81YWV0NFZxSlhpajJCNmc0YTJPc3lEZGQ5WG5kdXczOWszaEktT3V5VVZZY3p3QUU5VHY2c3pWUmtUSEVVcDZqUUJtell2TWpuNlJBZE41N2lISUN4VjVxMFVvRTB5d2Z0Y1dmYXZ1bTBlcGZzZTU5QkpUTk9kR2oweDYxSzB6ak5YdFBTQXd1c3NDdTBSOWNYVjVCVlBJbzRDVHVJNTdpX2NnQjg1dg?oc=5",
-      "source": "WGRZ",
-      "pubDate": "2026-10-08T17:02:00+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Two booked in Wichita Co. Jail following copper theft, large spool discovered in vehicle - News Channel 6 | Wichita Falls, TX",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmlwOGtVLVdUVFUxV2NpNXU5Q0wybTNSRzRHUXVLWjZSbDlralczZU9pUFRGdnRaN2FTTzNVc0gzVWdtclNNOWhxZG95bWoxVVh0V2JfaDY1SG1XME44aDhUcTRMbFFSbjlEUkJrN3oyYVlVWllOeWNZZWR4VGg4VFZGQzVpdV9OMmFmN2VTQTZrSHFDRnNXSV9MRUlrNHlBdzRRWXByUTlESWZQNFlqbVhIZllMWlhDc0FmOEVsSks0UQ?oc=5",
-      "source": "News Channel 6 | Wichita Falls, TX",
-      "pubDate": "2026-10-08T16:51:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Cathode Q3 2026 Price Review - Benchmark Mineral Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSjFXWDFpN0FnMzU1eVRGcnRYc25SSXppa3NKR29mOWxOenFFSGY4XzMxb3A5ckE0ZTlTd2dRblVab3hnSEg4X0NzQmt3ellaTFpCQTdua2Zubl9BbzY5RWw2aHVnZ0ZDR0QxclRWNmhqOVQ1MlQ5bEVQMU5VcUlsV2NSNlNKVDJUQzRZX0dzd3VOUkxnSDhwSmhzMWZTWFVQNGJJQWlfUEpycWE0TDBzVXZhX1dGUTEyMElyZTNlSVd2MjZocEltVTNDYw?oc=5",
-      "source": "Benchmark Mineral Intelligence",
-      "pubDate": "2026-10-08T16:46:06+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "Cathode"
-        }
-      ],
-      "stages": [
-        {
-          "label": "소재",
-          "evidence": "Cathode"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-14T01:13:34.511278+00:00"
-    },
-    {
-      "title": "Copper inventory sentiment signalled tightening ahead of Q3 backwardation, Permutable analysis finds - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzBudW1IUVYweGcxUEZZZVhkQlRZUlR3eGY0enp1d2NPaTFuLXpLMV9YYm1VdFRFOGtRa09jVDl5cUNKUllWTWNYcGRheVUwbHVfQjZkYURXdXM2eVFLSlFuSjNzaFIxejRVbnZzOHFNSFZ1bjRtcWs5enVVclVLRmJqMFJOd25OQ3pXdGhsQkliZzZFLVlfQktpcFQ?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "pubDate": "2026-10-08T16:45:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "ore"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "114 토토사이트 보너스 대기 상태와 진행 상태 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjM2UlVZdHYzdmZndmZ4dUNIUG5LT1hKTDNLcVp2VGEyOFBuVHZsTEJGV3VRdVF0bU1LTGgxS0lBcTdaYWRqZWRraUNMQUZfdEEtN3Z2UUxsSk5OUW94TjdvRC1VYjl6T2c3bk1YM0lMQ3JaWVhCYW9GZVVxLUhSeThrV2lVd2ZkdU1acHl3ME9qT2xRRUN6dURzNXJ2MEZJV0p1VnQweHRYdw?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-08T16:42:20+00:00",
-      "mineralIds": [
-        "ree"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-17T00:29:38.099744+00:00"
-    },
-    {
-      "title": "게임 정보가 서로 다를 때 확인할 구리 홀덤 버전 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HYVQ1X2FNWHdfaWR6cGF0VXNtbjMtd1FkYUFEMTRFTGpYQnlzYVAweW5acVhfSXQ4UVhaLVFyaFVxSmdNaHN5NGo1RW1QcjBlTzdQaV9FcmE5aTlDWUJkY3ZfRWVKQnpEMS1NejZrck0xZVpw?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-08T16:40:39+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "India: Medium-carbon silico manganese prices gain on rising costs - BigMint",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTy1vVG9mNTFqUEdKRHVZcC1pRF9IOWZfOU5NYWl0SnNMcUhJLXM5Nk9acDlIdl83Nzk0bWVHQ0ZKOHhtV0JRVFpJMldxSzQ2a0VmUGFtaWFNSVRGT29jQWVMQjFEc1NUOVJxUTVFNkZ3WU11ZUFFd284dHBVTHFEMHFRSmNHZGVzUzV3WXdVaVdNQ044OFpzbGt6b18xQ0NaWlpRSVF2RW9KdEM2eC0w?oc=5",
-      "source": "BigMint",
-      "pubDate": "2026-10-08T16:38:59+00:00",
-      "mineralIds": [
-        "mn"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "I’m Not Waiting Until Spring to Shop Fashion’s Favorite Shade of Blue - Marie Claire",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUczRUN3OHhQYzhOV2o0NDRwNmlOU1ZUTlVkd2otOWEyMW14MmNNRV9zcTVBVjlQcnpqQ1loNjlSRExtY1N5Q3VzTWxJRmFFN192U0tUaDBwU3A1dkhhQ1JNQktSLTZLQkNsVjNSaU91TlgtVmJJclJpM2VGTlh6Yi1XX09pelJmb0E?oc=5",
-      "source": "Marie Claire",
-      "pubDate": "2026-10-08T16:34:14+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Anglo American Warns of Brazilian Closure if EU Vetoes MMG Nickel Deal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTBVWVpLNjhlS0VRcEZ3N0lSc3dRcmIyVllKNVV4cFd2WEtlSzdQSnZKYkMxcXRRck1LZ0NBTGFhU1dDZ3BPbFhPY05PWFkyRm1scE1JVWRtMGdRME10WjVtMmNqWGxiUlJiSjA4cUVESjhLd1FYR25wcE1VbUUtUzExUTNGa1NuX2o5T05QbXpRT0NUeWs5Q3FvTG1WbERrZ29QZG1RODg1VEFq?oc=5",
-      "source": "WSJ",
-      "pubDate": "2026-10-08T16:32:00+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "어떤 내용을 다루는 게임인지 궁금한 클레오 카지노 먹튀 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcE5kR3J6dzUyV3E0UC1IZ2djVDBnUjZtU3BzbXI3YXBLem14by05SDV6MXRXRXdtNW9yRHl2alYwYnYtdDByTHBYQXNyVmJ2QmVzMDluZUt2RUtqNDlvUWRfVDVMblZmZnF0dnVwYw?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-08T16:14:32+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
-      "source": "Fastmarkets",
-      "pubDate": "2026-10-08T16:11:55+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "소재",
-          "evidence": "carbonate"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "결과 창을 닫은 뒤 어디로 가나요? 해시 바카라 사이트 - Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmhRUTd5aklObzBLbjNSUzZmNVBWZnBSbTBIVUlLRjNPT2R4a3ZvVmMzc2NsOU5rWVZqeTlpZldVMjhodWZYb0tzOTctMmFiRlVIUWFDWGNGbEV1azZaZEtndk1OWS02QWlXcUxZa0FQTXVtWlNycXFMZ2RUck4wTTNPNlBjNWdPNEVYa25KVlQzOHFqbFNZMGFIbjZHajFGRTBFaDZBUVluWmp0Szg1dFBmWnFmQTk2T09wVC1DUUg1ZVpiRkNESWlqOUlteVE?oc=5",
-      "source": "Calgary Roughnecks",
-      "pubDate": "2026-10-08T16:04:27+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-16T00:24:59.921247+00:00"
-    },
-    {
-      "title": "포스코퓨처엠, 삼성SDI와 LFP 6조원 규모 공급계약 체결 - 세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCT2VPbnFkbC1GaHo1RmE2ekhqSWhwZTM4aWZIb1pVVUc5VS0yUGlLam55c1BPMmphWG5lS1JVX09pNlZmVXVGc21OOGR5Q2k0ek9DWEFpbHPSAVRBVV95cUxPREZhTjd3RXd2Z013V0xwd1dOVFRMQnFDUFRJMTVtcG5pSFExM1JRaWd4T0IzQ3pjWVpFZk94SEpvdXFiU3NiYmg5S1RZNlJUQU5jSW0?oc=5",
-      "source": "세계일보",
-      "pubDate": "2026-10-08T16:00:00+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Elsa Winters Obituary (2026) - Appleton, WI - Brettschneider-Trettin-Nickel Funeral Chapel & Crematory - Appleton - Legacy | Obituary",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmk3SEhTM0dUczMxeTBTQVRYNWlReUhGdkx6ME14QkU4M2s5aVVHRm51YXhDbVZFOHhDUmFQdHYxNzVvVXhIZU1JZE9pZTIxTFd6MERVdkYwMHlJRkVORWgtQ2dhQUluMUptdzdzSTJWMGZXcEUtYlRtb2ZUUnNodA?oc=5",
-      "source": "Legacy | Obituary",
-      "pubDate": "2026-10-08T15:29:10+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-20T01:05:44.206458+00:00"
-    },
-    {
-      "title": "Ciscomani, Zeldin celebrate Florence Copper milestone - Ripon Advance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmxsalJrUnN1MTU5UlowQ1Q3R2VMLTNpaWRwQTU0c0s1NmxhSENJYldmdVAxN3lRRGdoV2F4R2VvaEpaaG5NQllxeWtRVk1VV3hZY0o1eEppbFZlM0lkY2JuUWQ2MEJhOTB1ZmdqLUU2d0Z3dUJjbm9xVXA2YlNvN2NoMk8xNVRfUUhiczdjbw?oc=5",
-      "source": "Ripon Advance",
-      "pubDate": "2026-10-08T15:27:30+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Nouveau Monde Graphite at small cap growth hybrid investor conference: scale and supply By Investing.com - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzBVUW15eEhZNHR4eHlHenlHUnl6dzZQRmt3VjNjYWtxcDMwR2JaRFhIcnlpb3hkRzFwajJycV84MC1ZTnlZYUE3LU5xRXdOZzdyM3ZDd24wRW1XZGNSNHVGbm1rUzk4bkNfeTl4eXJNdjB1dWcweU9QZElaZG9fMm14UFdMNThLN1ZlUjA0QnJPWGN4V3NrVVFYNVl5cHJuc0tVYk00SU9NOUNWdW1SSzdsa3FvVE5BbWlPdjY2R0JQVUVCRHgzODQ3U3Rsd25ObHZzYWExUi01QQ?oc=5",
-      "source": "Investing.com",
-      "pubDate": "2026-10-08T15:24:23+00:00",
-      "mineralIds": [
-        "graphite"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-11T01:00:33.127405+00:00"
-    },
-    {
-      "title": "구리한강시민공원 가을 수놓는 2026 구리 코스모스 축제 9일 개막 - 이트레블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5FdHU5YlRZaHRrdU5ja1dBeDNZOUFjTU9Ia3RjaWJ6QjJFS3NZSXZqd0VmNjJXd1ZlaFo2NENKWXNJdlhi?oc=5",
-      "source": "이트레블뉴스",
-      "pubDate": "2026-10-08T15:20:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "구리한강시민공원 가을 수놓는 2026 구리 코스모스 축제 9일 개막 - 이트레블뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bTh5eUF5cWMtSE1EcS0yUkpTbjhiRkdDRTJNTGYyemdMa0x3N1BBcmZJSjFJNUdIVDk4OEdzQlNRT1VDWEloR1pQUGNVWm9LdnF4eVln?oc=5",
-      "source": "이트레블뉴스",
-      "pubDate": "2026-10-08T15:20:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "Eastport Critical Metals advances uranium, rare earths and copper-nickel projects in Botswana - Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRUdmOHE2Vk5jMUh4Q1lRQUFFTmc0b1pSWllhMzVMcTVOVU05WGVVejRYaEdTcWdZeGZGeWpMa1JIR3JJT1lPbGR6bGJpeFJRS1pmTHh4ZTk0ajhJVFRwMXJOSU5RZ09WWWY0c0pNT3FjSTFOc1FubUVjSVZFdXNuQ2dwTWYwX1ppUmJzc0JVdkx1Uy1TeHBEVGZfXzJ5VS0xcDRuYW1XZ3Bpa0tVdUJ1Q1Z4a0gyZGZqQ28tNS1Hdmt0RU5ZRlFfSXdaVkZiUWVVZnA2ekdhZUZCX1ZkblZkSU8wVmRvREdBZFRN?oc=5",
-      "source": "Proactive financial news",
-      "pubDate": "2026-10-08T15:15:49+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "US Tariff Threat Reprices Copper Without a Global Shortage - Crux Investor",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVJHX21aZWtfd1JFY0xfU0VidkVXSTFhRDQ3TVRzNGNDdGxodmdyWEtOR21ET3JTWHpvZ1BsUVRlX285MmtBMzd5dDVjS1NuWG1fSXd4Sk5zY2tOZlpvWDlVS1RpU1ctSEFvVFpOQ3VDbXVhSzliOHpXaHU1b1ppTE1SNG9LVWx3VXpnbktkazltODc1cDJQZQ?oc=5",
-      "source": "Crux Investor",
-      "pubDate": "2026-10-08T15:06:54+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Trekor Metals Reports Third-Quarter Copper Production at 41 Million Pounds - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSE13LW1XaWNsWjR3d3VLYXJOM1FURER3NHJGaGtjMzFvNmFDQ3lzanZ4eDFQNXFWTk1vcmtHR09heTR1OHQwRXFBbWJuMDlxUFY0WE5TQkMweXRCV2c2Nzlqd3NjUG5kczV1YWFyVHpBYzFUeGhnU0J0STI4dkFRbnRiaWJPVE95VjRUS2VUc0RoeWVhZVhLNDVIbDNTdGhqNVJna1hBQ0k?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "2026-10-08T15:04:22+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Elevra Lithium rises on spodumene supply deal with Korea's LG Energy (ELVR:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWF9xSnZKSjBEQ2tTMThRcFgwRHhpNmpyTzBrdWdoMy1wbVBYSlZQcjBiUnJ2WkFYUzdXdDJLMG5rMWg0UU5MSUU3Sm5acy1oeEkyQ0l0TUVoMDJzM0taTVRiRldHSVBUaEZQV1lDRE9QOFdMUGwyTUtDc1VGQTdhdV9GeFFCakh2MWNnclJVUEVudkpBZUNLU3g0Q3RibV9tbHh4VURqVU0?oc=5",
-      "source": "Seeking Alpha",
-      "pubDate": "2026-10-08T15:01:05+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-13T03:03:11.873970+00:00"
-    },
-    {
-      "title": "캐나다 시그마 리튬, 브라질 광산 조업 재개...법원 \"기존 환경 허가 유효\" - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jU04yUHE1R1diRmJzZUFFRHBqclp1LVZnejh4d3VxQWx3ZzZQSnozTGtCeXNWVHBldHdQRW1wbGFiclJDVkdRYV9sVm00WDNjaTBTcXhWQVBpQklhYUUzQ3NYdw?oc=5",
-      "source": "더구루",
-      "pubDate": "2026-10-08T15:00:43+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "광산"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Cobalt Sulfide Meets Rare Earth Oxide in New Supercapacitor Built for Trains - Bioengineer.org",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUURpNENJUGtiTFVZMV84amxBNWxWQWxhNjU5c0FFSlluLWIyeE5QYnMzcktnZWI4bFFMOHF2QTB0RWxhSjVQNnpzckFISUhzREN3MjJXUW93Y1VOS0JNakVrSTliZ1cyaF91UlRONjFlSnhkbVlGbVkzNVg3TEVsWXZ3WHF2a3YtSFpLYVhaT3ZGbE9GaUR3aUIzRllmSGdLSmcw?oc=5",
-      "source": "Bioengineer.org",
-      "pubDate": "2026-10-08T15:00:40+00:00",
-      "mineralIds": [
-        "co"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "소재",
-          "evidence": "Oxide"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "中 간펑리튬, 칠레서 리튬 재활용 사업 추진 검토 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBua1dicURha0piZEFnT3JXb1UtWk5FQnVyU3ByVWltSWJ2dmlVMGUwTFpLbC1PNElpeEZzOUg4bFdDdnlNZ2xMdG42SlQzZjhGMVA3b1pRUlVxUUM0YnBTSVVYVQ?oc=5",
-      "source": "더구루",
-      "pubDate": "2026-10-08T15:00:32+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "재활용",
-          "evidence": "재활용"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Old Copper Smelter Town Now Site of Research into Fiber Optic Impact on Microgrids - Microgrid Knowledge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSnd2czdjQU5laEpiZnAzNGt0S004d0tuUVZucFBnallOTmxjSnAzcm1LRlhTWkszWHpOR2I1MlhweDRPYlhRS2NaOVdRLVlKcnlSMXNKamhSSUtHSS1vNTZWbmVhdWdCdS1QZjM1dEtvYnlnLXZLaktVbjVOWXI2SlNVTVpKaHlkU3doREVzQlNJb0hxRng1UzBqa1Vham13WXlhUGZXVU00U3VLNUlTcW5CM3Z3NV84QzBMMkwzbTFvVUY0S252d1NGLUsyZzBsRmxEelZSekFWTUxYV2pfS1hjbw?oc=5",
-      "source": "Microgrid Knowledge",
-      "pubDate": "2026-10-08T15:00:13+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [
-        {
-          "label": "전력망",
-          "evidence": "grid"
-        }
-      ],
-      "stages": [
-        {
-          "label": "제련·정제",
-          "evidence": "Smelt"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-14T01:13:34.511278+00:00"
-    },
-    {
-      "title": "Keurig Dr Pepper bets on iced coffee with espresso concentrate - Food Dive",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0h5N0lXa3BUa1hRSUhsU1U2S1JaQm9XTjVPd3V6bVV2WDhuUm5PVFlZc0FsLUg5b2FyN2g4cmt2VHI2UEV0S2IzM1BHQms2UzBGMmJNdmc4UERHNTZISmtpdlNma2VtT2UtRlcxUDQ2bVRHOVVNS1FRcjVwY1BsbFVldFZBbXRTU2UwM3diOXFJVGtoWDVzZklQZw?oc=5",
-      "source": "Food Dive",
-      "pubDate": "2026-10-08T14:53:30+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "concentrate"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Arafura Nolans NdPr Project Groundbreaking 2026 - Rare Earth Exchanges",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YOVJMd3hFS2JIU0VYZ2kwa2JzZ05pZHhncDJFcklCMVV6dUtqSnVIRGk1ekVVUXZta01uSWU0LWMtRkNHd2dSVGR4X3pJNVlrZHQ0VjRhMkRmWU9FVnNtTVdJT3lDSjktOUZvOUh2T1FfREM4dXd3aGlSbw?oc=5",
-      "source": "Rare Earth Exchanges",
-      "pubDate": "2026-10-08T14:47:03+00:00",
-      "mineralIds": [
-        "ree"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "구리시, 「제3회 댕댕아 구리에서 놀자!」 개최 > 뉴스 - 더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43TG1kS2R6MVVKTGRRRDZiM3J0c2xJMEhuMW9QZjltakFKYjJ4TWRiaFYzYnV4ZHRuTk02S2V1a0xZUE5sTXczVkRleWdpUDR4OFZ0MHJSTkJCTzJPakJzRlVMZXlDOERGeEg3TlN2a04?oc=5",
-      "source": "더코리아",
-      "pubDate": "2026-10-08T14:37:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "“맛있는 한 끼 즐기고 와구리 기념품도 받자!” 구리시, ‘와구리맛집 리뷰인증 이벤트’ 운영 > 뉴스 - 더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tRnpnZTBKQzl6TWVsYmZHQTFJRkJySGJuVkM5TUdJbk5XdE03bE1JbzYtS2xGdUo0ZkRHbmt1SG9GRlQtaFZaRG5zV25YMXlBQjVVMnZaNXVsOTVodGRXVzZVdUlQT2xMX0ZyYnk3aW4?oc=5",
-      "source": "더코리아",
-      "pubDate": "2026-10-08T14:36:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "“맛있는 한 끼 즐기고 와구리 기념품도 받자!” 구리시, ‘와구리맛집 리뷰인증 이벤트’ 운영 > 뉴스 - 더코리아",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6X2hYRVF4Ty00SlRqMjRPZFVlU3g4WFZsZU5aNGx4dHQ3aFo2ZGk4M193aERCandUQmRSTXgyUjM5bkk?oc=5",
-      "source": "더코리아",
-      "pubDate": "2026-10-08T14:36:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Zimbabwe’s lithium export earnings surge on higher spodumene prices - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3RHSHVRNHZmeEVZc2EwRFZxVmpjNTJnMGFBZnpZMFpiUGFTQUtVRms4NlQxdU1Tc0VtUVNCS3d6dUlObUlyWS1vNWt4SFVxZmwtVi14TE56RE1KLUFQeV9BcWQwZ3FmVkVrTC1QUHBHY0NpZUIyZXJtWEJCRE42U1JLeERCcUpwSWJ3czFrN0syLU5Zbng4Q1NLZW5WcFNfejJDbDZWeTQzbzNWT2RPUlBFTmQ?oc=5",
-      "source": "Kitco",
-      "pubDate": "2026-10-08T14:30:00+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-15T00:32:11.821496+00:00"
-    },
-    {
-      "title": "UK scientists turn to biology to unlock cleaner lithium - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1BrYWhDcjJUUGhiTEtiQ0UtYjFCckFPM0RfeXlnZWtyUmZ2X3lDWVBndVZWZVRvNWlaMV9WUngzaWJxMkVhaU1zVmppbVBRYjNMd28yYWhpc3hEeXZBVkhJdUxNdTJRRTJiOF9RYmtUM01xMjlFM0JlVDAtanUzeURaY3hYQQ?oc=5",
-      "source": "Mining.com",
-      "pubDate": "2026-10-08T14:29:43+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [
-        {
-          "label": "채굴",
-          "evidence": "Mining"
-        }
-      ],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "신동화 구리시장, 2027년 주요업무계획 보고회 개최 > 뉴스 - 더코리아",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41bXE4NldKeGx2RnZESjhzdFFCMTZPQVdIMUE1T01yUmdrZERYcmZucXEyRmxySWM5cmg2LWszdElreWVXX090RzE3QlFEWG02UFZJTHhSTDA0T0kteEQyRVpZcHVSclgwdU1kRjhSX0E?oc=5",
-      "source": "더코리아",
-      "pubDate": "2026-10-08T14:22:00+00:00",
-      "mineralIds": [
-        "cu"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "Eastport Critical Metals advances uranium, rare earths and copper-nickel projects in Botswana - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBhMjNJQ040S2F5UUkzSldwVWQtdFBPSWxiWXl4QU1KaEpySG5ZRTBXYmw3X3I4WUdDYTVPcDRwQkxJdWd0RGZFWTUyemdRR2pYSlZMTWFmWnR0R1pFZWZSWjJraDVzbXhxNGx4aWgyT2pHbVFmR19MdHk2eE81MHMwdWJBdWJoU29SY3FqeGpDUQ?oc=5",
-      "source": "Yahoo Finance",
-      "pubDate": "2026-10-08T14:19:45+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-15T00:32:11.821496+00:00"
-    },
-    {
-      "title": "프라보는 에란야에서 시작되지 않았다고 인정하고 이전 정부에 크레딧을줍니다. - VOI.ID",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAyM2JKLTF6R2tlMlRRQUV3bUo0SEVhYi1BSXR0SXUyQXZCcWVRVWE2Njd3UHlJdUlLZUkxQ0RxNjY4aFdHSnBB0gFCQVVfeXFMTTg2YzFoTWF0MGx1TWFXTk5rYnViT3dSNm82bmtfYml4dEhvT293UWc5bHBvSU4wZUVRaF9Od3FHVTdB?oc=5",
-      "source": "VOI.ID",
-      "pubDate": "2026-10-08T14:18:53+00:00",
-      "mineralIds": [
-        "ni"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-10T01:45:26.507935+00:00"
-    },
-    {
-      "title": "Mass. reports record 22 lithium-ion battery fires in September - WWLP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzIyZVV4a0xhSmhVUnVHV29BYXY4SnlVQ0IwQm5zVDA5UWtoOF9lUjEyMUg0aEFyMVh1S0lvNmg3Y2JvQ3VfZk93Nlh4TVRSaDkwV3phM204bHAwXzc4dUV5djlNQXpDTU5BTjdRcUVSTkd3dFY5M2lGS3FUUl9BU2pwc05PM2FiWFEtYzgxenZZSEpGT09IbkNpUi1yb0lRYXFOVdIBqgFBVV95cUxQQlZXaU41Q0NpdU1TN05WblBIbEQ4aUM2ZXFBYmZJaENicC16WElzYlc2ejdSZmpGdURqUG5NSTJlOTg0Z3oxaEpBenBTaWNtU2FWb2oxUElhbDZ2U1FROGRSakNTXzJLSVBXeTRpX3JYTkZxNkRGc29yZ3dSek8wbkNXVjdxZ09KRmdkdnhydVhwOWhwMGI0MEpxN0V2N0l1b2FXVFlOdXgzUQ?oc=5",
-      "source": "WWLP",
-      "pubDate": "2026-10-08T14:12:12+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [
-        {
-          "label": "배터리",
-          "evidence": "battery"
-        }
-      ],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
-    },
-    {
-      "title": "NESR, Aramco agree to develop lithium project in Saudi Arabia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlRBd2JGeUNlbURBMUFHbGcxMEs2SGF6UzVnMU1pVERTRkpzX0VDbTVZQll5WFM0TFA1bThUTjh6Y3A1UExhVW54TVF6Vm5RRjdTTW1Rdkg4ZGxPTF8xRWZDWFlDZHBjckpscDRYeW1EYzRiZzNOd1NEcUtwQ2pPMXFsVVhSTW56c0lERjZ3ZzB1NE9MRHMtdm1pYVllLUtwV0VDX0NXbmFKUQ?oc=5",
-      "source": "Reuters",
-      "pubDate": "2026-10-08T14:11:47+00:00",
-      "mineralIds": [
-        "li"
-      ],
-      "markets": [],
-      "stages": [],
-      "classificationBasis": "제목 키워드 · 검색 광물 기준",
-      "firstSeenAt": "2026-10-09T02:10:47.783045+00:00"
     }
   ]
 }
